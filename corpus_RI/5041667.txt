@@ -1,0 +1,8 @@
+A '''CDMA Mobile Test Set''' is a call simulating device that is used to test CDMA cell phones. It provides a network-like environment forming a platform to test the cell phone. This reduces cost of manufacturing and testing the cell phone in a real environment. It can be used to test all major 2G, 2.5G, 3G and 3.5G wireless technologies.
+In a lab, high-precision measurement correction over the entire frequency and dynamic range as well as compensation for temperature effects in realtime are critical factors for achieving accuracy. A good quality mobile test set helps in achieving excellent accuracy, which is a major concern for mobile manufacturers.
+A mobile test set should ideally support the following technologies:
+Agilent 8960 
+Agilent 8924C (Older model) 
+R&S CMU200 Universal Radio Communication Tester
+Agilent Technologies, http://www.home.agilent.com/agilent/product.jspx?nid=-536900143.0.00&lc=eng&cc=US
+Rohde & Schwarz International, http://www2.rohde-schwarz.com/en/products/test_and_measurement/product_categories/mobile_radio/

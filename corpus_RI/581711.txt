@@ -1,0 +1,6 @@
+In computing, '''CLISP''' is an implementation of the programming language Common Lisp originally developed by Bruno Haible and Michael Stoll for the Atari ST. Today it supports operating systems Unix and Microsoft Windows.
+CLISP includes an interpreter, a bytecode compiler, debugger, socket interface, high-level foreign language interface, strong internationalization support, and two object systems: Common Lisp Object System (CLOS) and metaobject protocol (MOP).
+It is written in C and Common Lisp. It is now part of the GNU Project and is free software, available under the terms of the GNU General Public License (GPL).
+Haible did not originally intend to distribute CLISP under the GPL, but in a well-publicised email exchange with Richard Stallman, he eventually agreed to do so. The issue at stake was whether CLISP was a derivative work of the GNU readline library.
+CLISP is extremely portable, running on almost all Unix-based operating systems as well as on Microsoft Windows. Although interpreting bytecode is usually slower than running compiled native binaries, this is not always a major issue (especially in applications like Web development where I/O is the bottleneck).
+Paul Graham used CLISP to run the software for his Viaweb startup. Viaweb was an early web application; portions of it still exist as Yahoo! Stores, the base for Yahoo Shopping.

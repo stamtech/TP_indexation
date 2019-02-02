@@ -1,0 +1,36 @@
+The software allows the user to monitor each poker session's profit or loss, hands played, time played, and table style. It calculates and graphs statistics such as hands per hour, winnings per hand, winnings per hour, cumulative profit and loss, and individual game profit and loss across multiple currencies.
+PokerTracker Software, LLC produces poker analysis software, such as PokerTracker 3 Hold'em (PT3) for Texas Hold 'em, PokerTracker 3 Omaha (PTO) for Omaha Hold 'em, PokerTracker Stud for Stud poker, and TableTracker.  The company previously developed the PokerAce Head-Up Display, also known as PokerAce HUD or simply PAHUD, which provides real-time information for live online poker play; the functionality from this formerly separate application is now available within PokerTracker 3.  Collectively, the company's software has been described as "among the most comprehensive software programs in the online poker industry" by PokerSoftware.com. In September 2009, the company announced that as of March 31, 2010, PokerTracker Holdem v2 would no longer be supported. The decision was made because PokerTracker 3 had been released on May 15, 2008, nearly two years prior to the end-of-life date. The company felt that discontinuing support of v2 would avail resources which could be dedicated to improving PT3 and providing exceptional customer service. Similarly on December 31, 2010, PokerTracker Omaha v2 will also no longer be supported, as its features have been completely integrated into the PokerTracker 3 product line.
+PokerTracker 3 supports online poker from the following poker networks and/or sites: 888 Poker Network, Bodog, Boss Media, Cake Network, Cereus Poker Network, Entraction Poker, Everest Poker, Full Tilt Poker, IPoker, Microgaming, Merge Gaming Network, OnGame, PartyPoker, PokerStars and Winamax.  PokerTracker is available natively for both Microsoft Windows and Mac OS X-based computers.  
+PokerTracker 3 competes against several similar programs. According to ''Total Gambler'', its most notable competitors are Hold   em Manager and PokerOffice, while Pokersoftware.com considers only Hold   em Manager to be a serious competitor.
+618shooter: posts the ante 60
+ElT007: posts the ante 60
+Orlando I: posts the ante 60
+GerKingTiger: posts the ante 60
+Phontaz: posts the ante 60
+Phontaz: posts small blind 250
+LLC 4Eva: posts big blind 500
+618shooter: folds
+ElT007: raises 2000 to 2500
+Orlando I: raises 15484 to 17984 and is all-in
+GerKingTiger: folds
+Phontaz: calls 17734
+LLC 4Eva: folds
+ElT007: raises 15484 to 33468
+Phontaz: calls 5509 and is all-in
+Phontaz: shows  (two pair, Nines and Deuces)
+ElT007: shows  (two pair, Queens and Deuces) 618shooter has returned
+ElT007 collected 11018 from side pot-2
+Orlando I: shows  (two pair, Fives and Deuces)
+ElT007 collected 29073 from side pot-1
+ElT007 collected 34212 from main pot
+On most online poker sites, players can have the client software create a locally stored text file that records the hand history as shown in the 'Sample Hand History' example. These hand histories summarize the details of the hand in a format that can be parsed by computer software. PokerTracker reads these files and extracts the relevant information, which it converts into a database for later review or statistical analysis.  The software is capable of combining hand history details of multiple accounts from different online poker services, which allows a user to aggregate his or her data. Statistical summaries can be consolidated from different poker sites regardless of whether the user's screen name is the same at each site.  
+PokerTracker is capable of analyzing cash ring games in which players play for cash during each hand, sit and go tournaments in which players compete for set prizes after the prescribed number of competitors join the tournament, and multi-table tournaments in which players compete for tournament prizes based on the total number of entries at the scheduled start time. Statistics can be tracked by position, session, tournament, best & worst hands, and hand results. The helps the user analyze statistics based on starting hand or final hand. The software also enables the user to replay any specific hand.  
+Buy-In: $0.25
+90 players
+Total Prize Pool: $22.50
+Tournament started 2009/05/21 10:19:54 ET Tournament finished 2009/05/21 14:09:17 ET
+You finished in 1st place.
+The software's database uses tournament summaries such as the 'Sample Tournament Summary' example and hand histories to provide a three section summary (see infobox screenshot). The top section of the general information tab provides tournament summaries of profit/loss as well as ordinal placement summary. The other sections summarize situational statistics based on the level of the blinds and the starting hand. Additional tabs in the software produce detailed information for various statistical interests.
+PokerTracker's probability graphs, as well as historical statistics of the hands a user and his or her opponents have played, enable the user to analyze conditional statistical possibilities and optimal betting amounts. The situations it analyzes are conditional on the opposition's playing characteristics and the player's position relative to the dealer.  Graphs can be produced for a single session or for any part of one's playing history. One of the biggest improvements in PokerTracker 3 over PT2 is that it is fully customizable so that all statistics and reports can be tailored to the individual user. ''The Guardian'' claims most serious players use PokerTracker during online play to constantly calculate situational optima. 
+Several websites portray PokerTracker as either the world's leading or the world's most popular poker tracking software. For example, Pokersource.com describes it as "the most popular poker tracking and analysis software available" and Party Poker describes PokerTracker as "the original and largest piece of poker tracking software". PokerSoftware.com says "Poker Tracker has been the industry standard ... for years". ''Total Gambler'' says that for more than a two-year period PokerTracker 2 was the "prominent force in online poker tracking", but at the time of its December 2008 review it speaks of this leadership position in the past tense, noting that PT3 had not yet been "fully released" at the time of its testing.
+Major online card rooms forbid the use of software that gives a player an "unfair advantage."  This typically includes software that allows players to share their hole cards with other players during live play and software that automates decision making. Since PokerTracker software doesn't fit into either of these categories it is generally allowed on most sites, including industry leader PokerStars.com.  Legality aside, some players feel the use of PokerTracker takes away from the game; for example, Victoria Coren of ''The Guardian'' remarks "there is only one downside . Where's the bloody fun in it?"

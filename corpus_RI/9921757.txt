@@ -1,0 +1,1 @@
+A minigame resource in Multi Theft Auto, effectively turning the original game into a poker tournament. This minigame is an example of a resource that is part of a bigger role-playing game resource.

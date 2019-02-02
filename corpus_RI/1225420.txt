@@ -1,0 +1,10 @@
+Launched partly as a response to the Graf Review of bbc.co.uk, the aims of '''backstage.bbc.co.uk''' are to encourage innovation and creativity in the UK, and to identify new talent. According to the BBC's response to the Graf report, the site aims to
+The website came out of beta as an official site on 23 July 2005 at the backstage.bbc.co.uk OpenTech event which was organised by NTK and the UK Unix Users Group. It is sometimes referred to as '''BBC Backstage''', although the official title of the project is backstage.bbc.co.uk.
+The BBC admit that in the past they had not always welcomed amateur innovators who attempted to reuse BBC content, but through the backstage site they aimed to foster a dialogue with such developers and the wider community.
+In July 2006 backstage.bbc.co.uk won the New Statesman New Media Innovation award.
+In December 2010, the project was closed.
+XML feeds are available on the backstage website for people to build with on a non-commercial basis. A complete list of the feeds available can be found on the site, but they include RSS from the BBC News Website, TV listings (in TV-Anytime format) and travel delay data. The BBC's RSS feeds, which are a main component of their backstage philosophy, output around 500 unique pieces of news each and every day from its network of over 5000 journalists.
+In June 2007, backstage.bbc.co.uk and Yahoo! hosted a weekend Hack Day in North London's Alexandra Palace for several hundred developers and designers followed by a performance by The Rumble Strips. The event was hit by lightning on the Saturday morning.
+Also in 2007, backstage.co.uk hosted the TV Unfestival at the International Television Festival in Edinburgh.
+In April 2008 backstage.bbc.co.uk held a new event (based on the Yahoo! concept - Hack Day) called Over the Air at Imperial College which was based around mobile development and ideas.
+In June 2008 backstage.bbc.co.uk held an event (based on the Yahoo! concept - Hack Day) called Mashed at Alexandra Palace in North London.

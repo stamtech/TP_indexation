@@ -1,0 +1,20 @@
+Neither open nor closed maps are required to be continuous. Although their definitions seem more natural, open and closed maps are much less important than continuous maps. Recall that a function ''f'' : ''X''     ''Y'' is continuous if the preimage of every open set of ''Y'' is open in ''X''. (Equivalently, if the preimage of every closed set of ''Y'' is closed in ''X'').
+Every homeomorphism is open, closed, and continuous. In fact, a bijective continuous map is a homeomorphism if and only if it is open, or equivalently, if and only if it is closed.
+If ''Y'' has the discrete topology (i.e. all subsets are open and closed) then every function ''f'' : ''X''     ''Y'' is both open and closed (but not necessarily continuous). For example, the floor function from '''R''' to '''Z''' is open and closed, but not continuous. This example shows that the image of a connected space under an open or closed map need not be connected.
+Whenever we have a product of topological spaces ''X''=  ''X''''i'', the natural projections ''p''''i'' : ''X''     ''X''''i'' are open (as well as continuous).
+Since the projections of fiber bundles and covering maps are locally natural projections of products, these are also open maps. Projections need not be closed however. Consider for instance the projection ''p''1 : '''R'''2     '''R''' on the first component; ''A'' = {(''x'',1/''x'') : ''x''   0} is closed in '''R'''2, but ''p''1(''A'') = '''R''' &minus; {0} is not closed. However, for compact ''Y'', the projection ''X''&nbsp;&times;&nbsp;''Y''&nbsp;   &nbsp;''X'' is closed. This is essentially the tube lemma.
+The function ''f'' : '''R'''     '''R''' with ''f''(''x'') = ''x''2 is continuous and closed, but not open.
+A function ''f'' : ''X''     ''Y'' is open if and only if for every ''x'' in ''X'' and every neighborhood ''U'' of ''x'' (however small), there exists a neighborhood ''V'' of ''f''(''x'') such that ''V''     ''f''(''U'').
+It suffices to check openness on a basis for ''X''. That is, a function ''f'' : ''X''     ''Y'' is open if and only if it maps basic open sets to open sets.
+Open and closed maps can also be characterized by the interior and closure operators. Let ''f'' : ''X''     ''Y'' be a function. Then
+The composition of two open maps is again open; the composition of two closed maps is again closed.
+The product of two open maps is open, however the product of two closed maps need not be closed.
+A bijective map is open if and only if it is closed. The inverse of a bijective continuous map is a bijective open/closed map (and vice-versa).
+A surjective open map is not necessarily a closed map, and likewise a surjective closed map is not necessarily an open map. 
+Let ''f'' : ''X''     ''Y'' be a ''continuous'' map which is either open or closed. Then
+In the first two cases, being open or closed is merely a sufficient condition for the result to follow. In the third case it is necessary as well.
+It is useful to have conditions for determining when a map is open or closed. The following are some results along these lines.
+The '''closed map lemma''' states that every continuous function ''f'' : ''X''     ''Y'' from a compact space ''X'' to a Hausdorff space ''Y'' is closed and proper (i.e. preimages of compact sets are compact). A variant of this result states that if a continuous function between locally compact Hausdorff spaces is proper, then it is also closed.
+In functional analysis, the open mapping theorem states that every surjective continuous linear operator between Banach spaces is an open map.
+In complex analysis, the identically named open mapping theorem states that every non-constant holomorphic function defined on a connected open subset of the complex plane is an open map.
+The invariance of domain theorem states that a continuous and locally injective function between two ''n''-dimensional topological manifolds must be open.

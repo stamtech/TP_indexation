@@ -1,0 +1,38 @@
+Applies to all subpages of List of civil parishes in England (47 counties) and to List of communities in Wales (8 preserved counties).  Also applies to the articles on those counties, and on Northern Ireland and the Scottish local authorities.  The six metropolitan counties in England already have maps showing the former local authorities and the two-tier structure created in 1974 (examples shown below).
+There is some discussion at   and   which may help to provide sources.  I realise this is likely to be a massive project, and is not likely to be achieved in a short timescale.
+Maps of the subsequently revised counties would also be useful: Aberdeen; Aberdeenshire; Angus; Bedfordshire; Berkshire; Blaenau Gwent; Bridgend; Bristol; Caerphilly; Cardiff; Carmarthenshire; Ceredigion; Cheshire; Clackmannanshire; Conwy; Denbighshire; Dundee; Durham; East Ayrshire; East Lothian; East Renfrewshire; East Riding of Yorkshire; Edinburgh; Falkirk; Flintshire; Glasgow; Gloucestershire; Gwynedd; Herefordshire; Inverclyde; Isle of Anglesey; Kent; Leicestershire; Lincolnshire; Merthyr Tydfil; Midlothian; Monmouthshire; Moray; Neath Port Talbot; Newport; North Ayrshire; North Lanarkshire; North Yorkshire; Pembrokeshire; Perth and Kinross; Powys; Renfrewshire; Rhondda Cynon Taf; Rutland; Scottish Borders; Shropshire; Somerset; South Ayrshire; South Lanarkshire; Stirling; Swansea; Torfaen; Vale of Glamorgan; West Lothian; Worcestershire; and Wrexham (some of these are very small differences).
+Thanks!   ( ) 22:31, 30 September 2010 (UTC)
+Black and white, like the sample image, but with blue (cyan) hydrography per the links? Any other features wanted?   ( ) 02:38, 4 October 2010 (UTC)
+Also there's a slight factual error on the existing map - there's an unexplained lack of contact between the rose-colored 39th Corps area and the green-colored 18th Corps areas - that is the location of Hrvatska Dubica which was indeed under the control of the RSK army between 1991 and 1995 so it should be marked on the map.
+I hope it's not too much to ask :) --  ( ) 14:17, 22 October 2010 (UTC)
+Have you tried contacting the original author? Also note that this map is part of a series (highly laudable, IMHO), all of which feature distinctive fonts.   ( ) 09:39, 8 November 2010 (UTC)
+I thought that if there was a map showing European Russia, things would be much more clear and the map would be more informative.
+Could someone do a    Location map+ | European Russia   , which could be used for the 2018 FIFA World Cup page?
+I did send a note to I did send a note to   about this, since he/she is the author of the above mentioned map of Russia. about this, since he/she is the author of the above mentioned map of Russia.
+Below is the current map in the article 2018 FIFA World Cup.
+Awesome, you're the man. I'm so gonna use this (in the Spanish Wikipedia, which it's where I come from)   ( ) 17:06, 6 December 2010 (UTC)
+Starting Point Tindivanam - - -()
+Endiyur- - - - -()
+Guruvamampettai-()
+Kattalai - - - -()
+Ravanapuram - - ()
+Perumukkal - - -()
+Nallalam - - - -()
+Sotkanthangal - ()
+Velakulam - - - ()
+Brahmadesam-()
+Enthur - - - - -()
+Rajampalayam - -()
+Puthuppakam - - ()
+Alankuppam - - -()
+Siruvadi - - - -()
+Murukkery - ()
+Kandadu
+Kurumbaram
+Kesanampalayam
+Marakkanam -(
+If you are able to provide a map something like the below, i will be so grateful.
+So... I have collected the following from public domain sources
+I've also found a similar request for the state of Kerala in the archives.  A highway atlas of Tamil Nadu is a serious undertaking, a highway atlas of all India much more so. As I've noted, GIS tasks are commonly easy to pipeline and hard to start.  To create a good map of one highway I have to get linework on the several dozen other highways nearby, while shifting the focus to cover those highways instead is trivial, so why not just make a whole state or country at once?
+What I need now are official sources on the Tamil Nadu (and Kerala, and everywhere else, for that matter) state highway system.  I'd prefer geospatial data, but I can adapt the segments I have if necessary. A non-free licensed map would be fine, as long as it's a reliable/official source.  
+Would it be okay if I supplied you with an interim product (Agile methods ahoy!) that just has the state of Tamil Nadu and this particular highway, with nothing else marked?   ( ) 16:59, 9 August 2010 (UTC)

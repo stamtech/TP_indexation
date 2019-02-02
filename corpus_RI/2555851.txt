@@ -1,0 +1,19 @@
+The project is divided into locator maps, general maps and city maps.
+Locator maps are used to show the location of a city, town, state or particular area within India. It is also used to show the location of a district, division or region in a map of a state.
+Non-locator maps. Maps of this type incude rivers, ancient kingdoms, crop-related etc. 
+Maps of cities. See the featured image of Manila alongside for reference:
+These maps depict the topography of a region. See   for an example.
+These maps show demographic information using colors.
+Image:India Andhra Pradesh locator map.svg|Locator maps
+Image:Ph map manila.svg|City maps
+Image:India physical map.svg|Topographical maps
+Image:India annual rainfall map.svg|Thematic maps
+Locator maps for cities are automatically added when the   is used and latitude and logitude parameters are provided. If a locator map needs to be added to a section in an article, then use   template. Find below some examples.
+Please use the following colours recommended by  . 
+Use only Sans serif-type fonts in the maps.
+All maps should be drawn SVG format. SVG is a vector format that allows upscaling without pixellation. It also allows users to download and modify the map to make derivatives. Please do not use the following raster formats: .png, .gif and .jpg for maps. For topographical maps, use .png. 
+Only images with a licence that allows commercial usage and allows derivatives to be made may be uploaded to wikipedia. The following licences qualify:
+You may use either one of the above. However to allow maximum compatibility across all wikimedia projects, it is suggested that we use either '''PD''', or a dual licence '''GDFL''' + '''CC-BY-SA''' (v1.0, 2.0, 2.5, 3.0).
+Please add the following information to summary while uploading.
+Use the following template
+Two popular SVG drawing software available are Inkscape and Adobe Illustrator. Inkscape is free and available for many platforms.

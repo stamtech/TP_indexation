@@ -1,0 +1,11 @@
+It was founded in late April, 2006 by Scott Purcell, founder of Epoch Networks and a former Board member of the Commercial Internet eXchange.
+In an interview for MIT Technology Review, Scott stated that WebBiographies was founded with a "grown-up" audience in mind:
+My partner and I were playing around on MySpace and were very impressed by what they were doing. But MySpace is used mainly by young people and to be honest, it's a bit of a chaotic mess. We said, "There should be a MySpace for grownups. Let's do it.'"
+The family tree utility can continue ad infinitum. For instance, if you've traced your family lineage to the Fifteenth century, WebBiographies' family tree utility can accommodate it. Each family member or ancestor added to the family tree is instantly assigned a free account, so that users can upload pictures and stories about him or her without sacrificing the user's own storage space.
+WebBiographies is also working on GEDCOM compliance for their online family tree, and users who have resources using this file standard will be able to upload that information to their family tree.
+They also have links to other genealogical resources available elsewhere on the internet.
+WebBiographies' genealogy and biography/memoir utilities are combined with Web 2.0 features such as the ability to connect one's web biography with friends and family and "comment" on journal entries.
+Online privacy protection features are also offered to users of the service. Users may choose to have their blogs, scrapbooks, biographies, or family histories displayed publicly or password-protected and locked from view by all except those whom the user chooses. There are three levels of password protection options.
+There are also weblogging features and one's site is organized like a book, with customizable "Chapters". In addition, every biography page is assigned a unique URL.
+Digital photos, digital video, and .mp3s may be shared and/or stored along with users' biography pages. Users can "connect" to one another's biographies, to stay abreast of new journals and photos as they are posted.
+WebBiographies also supports foreign language formats and has many members from Eastern Europe and Asia.

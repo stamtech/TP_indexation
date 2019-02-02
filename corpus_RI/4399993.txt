@@ -1,0 +1,105 @@
+When, in a given country or territory, the cost of solar electricity falls to meet the rising cost of grid electricity, then 'grid parity' is reached, and in principle incentives are no longer needed. In some places, the price of electricity varies as a function of time and day (due to demand variations). In places where high demand (and high electricity prices) coincide with high sunshine (usually hot places with air conditioning) then grid parity is reached before the cost solar electricity meets the average price of grid electricity.
+Four incentive mechanisms are used (often in combination):  
+With investment subsidies, the financial burden falls upon the taxpayer, while with feed-in tariffs the extra cost is distributed across the utilities' customer bases. While the investment subsidy may be simpler to administer, the main argument in favour of feed-in tariffs is the encouragement of quality. Investment subsidies are paid out as a function of the nameplate capacity of the installed system and are independent of its actual power yield over time, so reward overstatement of power, and tolerate poor durability and maintenance.  
+With feed-in tariffs, the initial financial burden falls upon the consumer. Feed-in tariffs reward the number of kilowatt-hours produced over a long period of time, but because the rate is set by the authorities may result in perceived overpayment of the owner of the PV installation. The price paid per kWh under a feed-in tariff exceeds the price of grid electricity.  
+Alternatively, SRECs allow for a market mechanism to set the price of the solar generated electricity subsidy. In this mechanism, a renewable energy production or consumption target is set, and the utility (more technically the Load Serving Entity) is obliged to purchase renewable energy or face a fine (Alternative Compliance Payment or ACP). The producer is credited for an SREC for every 1,000&nbsp;kWh of electricity produced. If the utility buys this SREC and retires it, they avoid paying the ACP. In principle this system delivers the cheapest renewable energy, since the all solar facilities are eligible and can be installed in the most economic locations. Uncertainties about the future value of SRECs has led to  to give clarity to their prices and allow solar developers to pre-sell/hedge their SRECs.
+Smart meters allow the retail price to vary as a function of time ("time of use pricing"). When demand is high the retail price is high and vice versa. With time-of-use pricing, when peak demand coincides with hot sunny days, the cost of solar electricity is closer to the price of grid electricity, and grid parity will be reached earlier than if one single price were used for grid electricity.
+The Japanese government through its Ministry of International Trade and Industry ran a successful programme of subsidies from 1994 to 2003. By the end of 2004, Japan led the world in installed PV capacity with over 1.1 GW. 
+In 2004, the German government introduced the first large-scale feed-in tariff system, under a law known as the 'EEG' (see below) which resulted in explosive growth of PV installations in Germany. At the outset the Feed-in Tariff (FIT) was over 3x the retail price or 8x the industrial price. The principle behind the German system is a 20&nbsp;year flat rate contract. The value of new contracts is programmed to decrease each year, in order to encourage the industry to pass on lower costs to the end users.
+In October 2008, Spain, Italy, Greece and France introduced feed-in tariffs. None have replicated the programmed decrease of FIT in new contracts though, making the German incentive less attractive compared to other countries. The French FIT offers a uniquely high premium for building integrated systems.
+Installation Type	                      Feed-in-tariff	           
+Roof & ground-mounted	0.3 Euro / kWh	        0.4 Euro / kWh	1.	     Duration: 20&nbsp;years
+BIPV	                0.55 Euro / kWh	        0.55 Euro / kWh	             Focus on BIPV
+National Target: 160MW by 2010 / 450MW by 2015
+Tax credit for income tax payer: 50% reimbursement on equipment cost
+In 2006 California approved the 'California Solar Initiative', offering a choice of investment subsidies or FIT for small and medium systems and a FIT for large systems. The small-system FIT of $0.39 per kWh (far less than EU countries) expires in just 5&nbsp;years, and the residential investment incentive is overwhelmed by a newly required time-of-use tariff, with a net cost increase to new systems. All California incentives are scheduled to decrease in the future depending as a function of the amount of PV capacity installed.
+At the end of 2006, the Ontario Power Authority (Canada) began its Standard Offer Program (http://www.powerauthority.on.ca/sop/), the first in North America for small renewable projects (10MW or less). This guarantees a fixed price of $0.42 CDN per kWh for PV and $0.11 CDN per kWh for other sources (i.e., wind, biomass, hydro) over a period of twenty years. Unlike net metering, all the electricity produced is sold to the OPA at the SOP rate. The generator then purchases any needed electricity at the current prevailing rate (e.g., $0.055 per kWh). The difference should cover all the costs of installation and operation over the life of the contract.
+The price per Kilowatt hour (kWh) or kWp of the FIT or investment subsidies is only one of three factors that stimulate the installation of PV. The other two factors are insolation (the more sunshine, the less capital is needed for a given power output) and administrative ease of obtaining permits and contracts (Southern European countries are reputedly complex). For example Greece, at the end of 2008, had 3GWp of permit requests unprocessed and halted new applications .
+The most significant incentives programs are listed here.
+Australia is a federation of states and territories. Each state has different laws regarding feed-in tariffs. The states have a range of policies from no feed-in tariffs to feed-in tariffs at more than double the normal consumer price of electricity. Some states are considering feed-in tariffs but have not yet enacted relevant legislation, or the legislation has not yet come into effect. Only a small proportion are Gross Feed-in tariffs (proposed NSW and ACT), most are on a net basis. In the Northern Territory at present only the Alice Springs Solar City is eligible for feed-in tariffs for solar PV.
+Situation as of April 1, 2010
+Bulgarian regulator DKER
+Remuneration for 25&nbsp;year contract, with possible next year changes set related to 2 components (electricity sales price previous year, RES component).
+Overview of Federal and provincial incentives at . Only Ontario offers significant incentive.
+In 2006 the Ontario Power Authority introduced the Renewable Energy Standard Offer Program. This program was replaced with the 2009 Feed-In Tariff program for renewable energy (FIT). The FIT program is further divided into the MicroFIT program for projects less than 10&nbsp;kW, designed to encourage individuals and households to generate renewable energy.
+The program was launched in September 2009 and the tariffs were fixed then. The solar projects    10&nbsp;kW received $0.802, however, as of 13 August 2010 ground mounted systems will receive a lower tariff than rooftop mounted systems.
+Feed-In tariff rates for the Ontario Power Authority (OPA) FIT and MicroFIT Programs, for renewable generation capacity of 10&nbsp;MW or less, connected at 50 kV:
+Rooftop    10&nbsp;kW $0.802/kWh CDN
+Ground Mounted    10&nbsp;kW $0.642/kWh CDN
+Rooftop > 10     250&nbsp;kW $0.713/kWh CDN
+Rooftop > 250     500&nbsp;kW $0.635/kWh CDN
+Rooftop > 500&nbsp;kW $0.539/kWh CDN
+Ground Mounted2 > 10&nbsp;kW $0.443/kWh CDN
+Tariffs vary based on fuel type and size of installation . The contract duration with the OPA is 20&nbsp;years, with a constant remuneration for solar, though biomass, biogas, hydro, and wind receive a 20% of Consumer Price Index price adder. Additionally, biomass, biogas, hydro receive a 35% peak demand adder during peak demand periods of the day and -10% off peak. Finally, all but solar may also qualify for a community and aboriginal price adder. All power produced is sold to the OPA. Generator then purchases back what is needed at prevailing rate (e.g., $0.055/kWh CDN). The intent of the Feed-In Tariff program is to provide an 11% return on investment.
+As of 2010 feed-in tariffs are 12.25 CZK/kWh for 30 kWp. Contract duration is 20&nbsp;years with yearly increase linked to inflation (within range 2 - 4 %). New contract prices are changed for 5 % yearly, due to unexpected rise of number of installations in 2009 new bill is proposed allowing 25 % change.
+Situation as of 2009
+Backed by the Chinese government   s total stimulus package of RMB 4&nbsp;trillion ($585bn), Chinese businesses are now among the top producers of electric vehicles, wind turbines, solar panels and energy efficient appliances, according to a report released last month by London-based The Climate Group. In March 2009, the China government introduced the "Solar Roofs Plan" for promoting the application of solar PV building. The Ministry of Finance in July re-introduced the "Golden Sun Project" with more specific details of the related policy. The policy provides that the grid-connected photovoltaic power generation project, the state will in principle by photovoltaic power generation system and its supporting transmission and distribution projects to give 50% of the total investment subsidies. The subsidy will rise to 70% for solar power systems in remote areas that are not currently connected to the grid. Projects with a minimum capacity of 500MW would be eligible for the related incentive. All such financial incentive schemes boosts most of the new development in China solar market, such as the new thin film solar plant of Anwell Technologies and Tianwei, as well as the contract signed by LDK solar to install up to 500&nbsp;MW of capacity of PV stations over the next five years in Jiangsu Province of China.
+However, there still is no clarity on Feed-in-Tariffs for domestic installations within China.
+Situation as of 2010. 
+Legal basis: Arrete du 12 janvier 2010
+Feed-in Tariffs:
+Contract duration 20&nbsp;years, linked to inflation. 
+Additional investment subsidies available as tax credits.
+Each year, starting from 2012, the new contracts will be 10% lower than the previous year.
+Only 1500&nbsp;kWh/kWp per year are bought from any fixed installation in mainland (2200 for tracking). In DOM-TOM  and Corsica, the caps for fixed and tracking installation are respectively 1800 and 2600.
+The German Renewable Energy Sources Act (      EEG) came into effect in 2000 and has been adapted by many countries around the world. It was amended several times and triggered an unprecedented boom in solar electricity production. This success is largely due to the creation of favourable political framework conditions.
+Grid operators are legally obliged to pay producers of solar electricity a fixed remuneration (feed-in tariff or FIT) for solar generated electricity fed into the grid, depending on the size and type of the system, as well as the year of installation. The tariffs vary to account for the different costs of rooftop or ground-mounted systems in accordance with the size of the system and  system cost reductions over time. Since the EEG guarantees the FIT-payments for a duration of 20 years, it provides sustained planning security for investors in PV systems.
+The feed-in tariff, in force since 1 August 2004, was modified in 2008. In view of the unexpectedly high growth rates, the depreciation was accelerated and a new category (>1000&nbsp;kWp) was created with a lower tariff. The facade premium was abolished. In July 2010, the Renewable Energy Sources Act was again amended to reduce the tariffs by a further 16% in addition to the normal annual depreciation, as the prices for PV-panels had dropped sharply in 2009. The most recent modification of the EEG occurred in 2011, when part of the degression foreseen for 2012 was brought forward to mid 2011 as a response to unexpectedly high installations in the course of 2010.
+Contract duration 20 years, constant remuneration. Feed-in tariffs will be lower in value in future years (decreasing by 9% default and a maximum of 24% per year). Degression will be accelerated or slowed down by three percentage points for every 1000&nbsp;MWp/a divergence from the target of 3500&nbsp;MWp/a.
+Situation as of 2009. 
+New PV FIT law introduced 15 Jan 2009
+Contract duration 20&nbsp;years, indexed to 25% of annual inflation.
+New contract prices to reduce 1% per month starting 2010
+Special program with higher FIT but no tax rebates planned to drive 750MWp installations of BIPV.
+Investment subsidies: Tax rebates and grants (40%) are available.
+The Indian Renewable Energy Development Agency (IREDA) provides revolving fund to financing and leasing companies offering affordable credit for the purchase of PV systems in India.
+State Utilities are mandated to buy green energy via a Power Purchase Agreement from Solar Farms
+The State Electricity Regulatory Commissions are setting up preferential tariffs for Solar Power
+80% accelerated depreciation
+Concessional duties on import of raw materials
+Excise duty exemption on certain devices
+The Ministry for Industry issued a decree on 5 August 2005 that provides the legal framework for the system known as " ". The following incentive tariffs are from the decree of 19 Feb 2007.
+Contract duration 20&nbsp;years, constant remuneration.
+On March 8th, 2011, a government decree has cancelled this regime: new installations from June 1st, 2011, will receive lower tariffs. The exact amounts will be decided during the month of April 2011.
+The former incentive programme run by the Ministry of Economy, Trade and Industry was stopped in 2005.
+As of October 2009
+Contract duration 20&nbsp;years
+As of December 2010
+Contract duration 15&nbsp;years
+10% decreasing in 2011.
+Situation as of Oct 11 2006.
+Feed-in Tariffs:
+Additional subsidies available.
+Contract duration 15&nbsp;years, constant remuneration
+Situation as of 2009
+No change since September 2008: the legal framework is the Real Decreto (royal decree)1578/2008 replacing 436/2004 modified by Real Decreto 1634/2006. 
+Feed-in Tariff:
+Building mounted
+Ground mounted
+20MWp, 26.7&nbsp;MW 
+Situation as of 2009
+The Bureau of Energy under Taiwan's Ministry of Economic Affairs (MOEA) has announced the proposed feed-in tariff rates for photovoltaic (PV) and other types of renewable energy in September. A tentative rates of NT$8.1243-9.3279 (US$0.250-0.287) per kilowatt-hour (kwh) has been set for PV generated power, however, the proposed rates have fallen considerably short of local solar players' expectations. Public hearing will be held on 24 Sept to collect opinions from all parties concerned.
+Situation as of 2009
+Announcements in the press that Turkey will introduce a new feed in tariff for photovoltaic;    0.28/kWh for the first ten years and    0.22 for another ten years.
+41.3 p/kwh 
+36.1 p/kWh  10 kWp
+31.1 p/kWh  100 kWp
+29.3 p/kWh > 100 kWp 
+Stand alone 29.3 p kWh
+Federal tax credits of 30%, which expire December 31, 2016, are available for residential systems and businesses. Details of this and state incentives are summarized at .  
+Legislation currently under consideration in Congress:
+Starting 1 Jan 2007 
+Administrative basis: California Public Utilities Commission (PUC) decision of Aug. 24, 2006
+Feed-in Tariffs and Investment subsidies :
+Contract duration 5&nbsp;years, constant remuneration
+Net metering
+Approved equipment
+Colorado became the first U.S. state to create a Renewable Portfolio Standard (RPS) under Amendment 37 in November 2004. amended in March 2007
+Investor-owned utilities serving 40,000 or more customers to generate or purchase 10% of their retail electric sales from renewable-energy resources as well as a rebate program for customers 
+Utilities must provide increasing proportions of renewable or recycled energy in their electricity sales in Colorado:
+3% in 2007; 5% in 2008-2010; 10% in 2011-2014; 15% in 2015-2019; and 20% in 2020 and thereafter.
+At least 4% of the standard must be generated by solar-electric technologies, half of which must be generated at the customer.
+Cooperatives and municipal utilities must follow a lower scale culminating in 10% in 2020.
+The 2007 amendments directed the Colorado Public Utility Commission (PUC) to revise or clarify its existing RPS rules on or before October 1, 2007. The PUC's rules generally apply to investor-owned utilities.
+According to  in 2006, U.S. tradable renewable energy credits (RECs) traded between   0.5 and 9.0/kWh. Many were at   2/kWh ($5   90/MWh)
+Many states have counties and utilities which offer rebates of from $500 to $4/watt installed, as well as feed-in tariffs of up to $1.50/kWh. See reference for list.  40 states have net metering. See reference.

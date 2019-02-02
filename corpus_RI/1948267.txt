@@ -1,0 +1,25 @@
+The '''Danger Hiptop''' and '''Danger Hiptop2''' (generally known as '''T-Mobile Sidekick/Sidekick 2''') devices come with a variety of included software titles.
+The Hiptop Web browser requests pages through a proxy running on Danger's servers. The proxy does most of the heavy work of resizing images, reformatting tables, and cutting out things the Hiptop browser doesn't support (such as Flash animations). The browser itself supports XHTML 1.0, CSS, and JavaScript. In addition, the browser has a bookmark feature, URL history and page.
+The Hiptop email client supports multiple mail accounts with folders, and can display attached images, PDF files and Microsoft Word documents.
+Officially, the client only supports POP3 mail accounts. However, the configuration dialog allows you to specify a mail server port to use, and if you specify port 143 (for IMAP) or port 993 (for IMAP/SSL), it will successfully connect and download email, although it doesn't support server-side folders and it treats your IMAP inbox just like a POP3 inbox.
+Of course, the client also sends mail, although it doesn't allow you to specify an SMTP server to use, so all sent mail goes out via Danger's SMTP servers.
+In addition to checking your own mail accounts at regular intervals, purchasers of Hiptop service plans receive an email address that pushes mail to the device instantly, much like an alpha pager, only without a size limit (a feature similar to that found on the BlackBerry).
+The Hiptop offers both AOL Instant Messenger (AIM) and Yahoo! Messenger clients. The AIM client is built-in, while the Yahoo! client is not installed by default and must be downloaded (for free, via the ''Download Fun'' menu) to the phone and is only available on the Hiptop2 device (not available for Fido subscribers).
+Unlike the AIM clients built into some other cell phones, the Hiptop's client actually communicates with the network via TCP/IP over GPRS rather than via an unwieldy and slow SMS-style protocol. It supports server-side buddy lists and most of the features of the desktop client. The AIM client can also connect to ICQ (also owned by AOL), and it has hidden support for AIM chat rooms.  A user logged into AIM from a Hiptop has a miniature hiptop symbol as their icon, rather than the standard mobile phone-shaped "mobile" icon.
+The Yahoo! Messenger client is similar to the AIM client, with some minor differences.
+The Sidekicks 1, 2,3, and iD do not support MMS, but are able to send pictures to other users through email. Picture messages sent to Sidekick users are given a link to a website they can visit to view the picture upon entering a password. The Sidekick LX, Sidekick Slide, and Sidekick 2008 do support MMS.
+Uses the built in camera hardware to take pictures. The pictures are not of particularly high quality, but are of comparable resolution and fidelity to other camera phones.
+Used for scheduling events, meetings, etc.
+Able to be sync'd with a desktop application.
+Stores names, mailing addresses, email addresses, web addresses, phone numbers, etc.
+Used by many other applications.
+Simple checklists.
+Virtual 'Post-it Notes'.
+The goal is to shoot as many rocks as you can before dying (you have several "lives")
+The game begins with four rocket ships and four damage 'boxes'. Every time you're hit by any rock (size, in this case, does not matter) you take a hit.  Also, if you get too close to a rock, your shield activates which also costs a hit.  As a health indicator, the directional pad changes color from clear to yellow to red as you take hits.  On your fourth hit, your ship is destroyed and another ship appears in the center of the screen (assuming you have any left).
+Your ship has unlimited ammunition.
+Occasionally, an alien ship will appear (called the Alien Antagonist).  If you're shot by the alien ship, you die (no "hits").
+Once you clear the screen of all rocks, you advance to the next (more challenging) level.  Ad infinitum.
+The 'controls' are extremely simple &mdash; using any 'normal' key on the keyboard (not SYM, SHIFT or ALT) or using the scroll-wheel (the latter is Hiptop2 only), press down/in to make your character steer up on the screen (his left), release to make him steer down (his right).  Don't let him hit anything for as long as you can.
+Restart by pressing your control-button-of-choice (space, return or wheel) after crashing.
+Access to this game is a hidden feature That can be accessed by going into the About Sidekick screen and pressing Menu+Shift+8 at the same time.

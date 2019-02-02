@@ -1,0 +1,2 @@
+A '''deployable structure''' is a structure that can change shape so as to significantly change its size.
+Examples of deployable structures are umbrellas, bistable structures, some tensegrity structures, bistable structures, some Origami shapes and scissor-like structures. Deployable structures are also used on spacecraft for deploying solar panels and solar sails.

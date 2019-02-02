@@ -1,0 +1,2 @@
+Services include sending/receiving email, the upload of photos, using Earth mapping services, search via Yahoo's oneSearch and Yahoo! Answers service, checking stock quotes, or obtaining breaking news.
+Yahoo! announced in late December 2009 that Yahoo! Go along with technical support for it would be discontinued on January 12, 2010. As of January 22nd, Yahoo! Go no longer works.

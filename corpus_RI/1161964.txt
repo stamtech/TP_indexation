@@ -1,0 +1,23 @@
+Regional definitions vary from source to source. The states shown in dark red are usually included, while all or portions of the striped states may or may not be considered part of .
+Image:US map-Central.png|Central
+Image:US map-Deep South.png|Deep South
+Image:US map-East.png|East
+Image:US map-East Coast.PNG|East Coast
+Image:US map-Gulf Coast.PNG|Gulf Coast
+Image:US map-Mid-Atlantic.PNG|Mid-Atlantic
+Image:US map-Midwest.PNG|Midwest
+Image:US map-Mountain states.png|Mountain
+Image:Map of USA New England.svg|New England
+Image:US map-North.PNG|North
+Image:US map-E North Central.PNG|North Central - East
+Image:US map-W North Central.PNG|North Central - West
+Image:US map-Northeast.PNG|Northeast
+Image:US map-Northwest.PNG|Northwest
+Image:US map-Pacific.PNG|Pacific
+Image:US map-South.PNG|South
+Image:US map-South Atlantic.PNG|South Atlantic
+Image:US map-South Central.PNG|South Central
+Image:US map-Southeast.PNG|Southeast
+Image:US map-Southwest.PNG|Southwest
+Image:US map-Upper Midwest.PNG|Upper Midwest
+Image:120px-US map-West.png|West

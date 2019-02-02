@@ -1,0 +1,9 @@
+There are several ways to create family trees for display on Wikipedia. These examples are taken from a discussion on the Village pump in March/April 2005 (see  ).
+The simplest way to include a list of ancestors is the Ahnentafel. This is a standard for genealogists, but it is hard to understand for people who have not seen it before.
+Ahnentafels can be displayed as horizontal trees using a number of templates. See  . For example, with :
+This is how ancestry charts are often displayed in the U.S., using :
+In Europe, ancestry charts are more often shown bottom-to-top.
+To understand how I did this, let me switch on ''all'' table borders: 
+Complex families can be displayed in an image file. You can use an imagemap to create links to the individuals displayed in the family tree (see Counts of Hainaut family tree, for example).
+See also   which has a few more features.
+See:

@@ -1,0 +1,46 @@
+The format is:  home team listed first, U.S. listed first at home or neutral site.
+Records are in win-loss-tie format.
+Record: 1-0-1
+Aug 21 Sweden 2-3 United States
+Sept 3 Norway 1-1 United States
+Record: 2-2-0
+May 25  United States 1-0  Estonia  (1924 Olympics)
+May 29  United States 0-3  Uruguay  (1924 Olympics)
+Jun 10   Poland 2-3 United States 
+Jun 16   Irish Free State 3-1 United States
+Record: 1-1-0
+June 27 Canada 1-0 United States
+Nov 28 United States 6-1 Canada
+Record: 1-0-0
+Nov 6  United States 6-2  Canada
+Record: 0-1-1
+May 29  United States 2-11 Argentina   (1928 Olympics)
+Jun 10  Poland 3-3 United States
+Record: 2-2-0
+Jul 13    United States 3-0  Belgium  (1930 FIFA World Cup)
+Jul 17   United States 3-0  Paraguay   (1930 FIFA World Cup)  
+Jul 26     United States 1-6  Argentina   (1930 FIFA World Cup)
+Aug 17   Brazil 4-3 United States
+Record: 1-1-0
+May 24   United States 4-2  Mexico (1934 FIFA World Cup preliminary match)
+May 27  Italy 7-1 United States  (1934 FIFA World Cup)
+Record: 0-0-0
+Record: 0-0-0
+Record: 0-3-0
+Sep 12 Mexico 7-2 United States (Castillo Najera Cup)
+Sep 19  Mexico 7-3 United States (Castillo Najera Cup)
+Sep 26  Mexico 5-1 United States (Castillo Najera Cup)
+Sep 28  '''GPES 1-4 United States'''
+Record: 0-2-0
+Jul 13  United States 0-5  Mexico (1947 NAFC Championship)
+Jul 20  Cuba 5-2 United States  (1947 NAFC Championship)
+Record: 1-2-0
+Aug 6  Norway 11-0 United States
+Aug 11 Irish League XI 5-0 United States
+Sep 26 Israel 1-3 United States
+Record: 1-3-1
+Jun 19  United States 0-4  Scotland
+Sep 4  Mexico 6-0 United States   (1949 NAFC Championship / 1950 FIFA World Cup Qualifier)
+Sep 14  United States 1-1  Cuba     (1949 NAFC Championship / 1950 FIFA World Cup Qualifier)
+Sep 18  Mexico 6-2 United States   (1949 NAFC Championship / 1950 FIFA World Cup Qualifier)
+Sep 21  United States 5-2  Cuba   (1949 NAFC Championship / 1950 FIFA World Cup Qualifier)

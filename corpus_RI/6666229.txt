@@ -1,0 +1,4 @@
+The availability of several free applications for viewing geographic data has led to a growing interest in the use of this technology by genealogists and family history researchers.
+The ability to share keyhole markup language (KML) files through sites such as Google Maps means that researchers can find matches based on geographic location rather than just a place name.
+Genealogy software that can be used for family tree mapping include:
+Utility applications that can be used for family tree mapping include:

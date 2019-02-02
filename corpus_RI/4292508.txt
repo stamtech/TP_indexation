@@ -1,0 +1,26 @@
+June 2007 (V9m)
+262k colors (V8, V9, V9m in Korea) or 64k colors (V9m)
+262k colors (touch sensitive) screen type TFT LCD
+EV-DO (V9m)
+Battery type Li-ion
+4.4 oz (V9x)
+The '''Motorola RAZR 2''' (often stylized as '''RAZR2''') is the successor to the RAZR cellular telephone. It is marketed in four almost identical models, the V8, V9m, V9, and the V9x. The RAZR2 is 2&nbsp;mm thinner than its predecessor but slightly wider. Features include a 2 megapixel camera, full HTML web browser, Crystaltalk technology that reduces and filters out background noise, and a  color display on the front of the closed phone.
+The RAZR2 V8 runs the MOTOMAGX operational platform, based on the MontaVista Linux OS rather than the previous Motorola phone OS called P2K (based on Versatile Real-Time Executive).
+The RAZR2 V8 was released in July 2007. As of October 15, 2007, T-Mobile had offered the V8 model.
+The RAZR2 V9m was released through SK Telecom on June 29, 2007, and Verizon Wireless on August 29, 2007 in the US.
+The RAZR2 V9 was released on September 1, 2007 and was exclusively made available through AT&T  
+The RAZR2 V9x was released in December 2008. Replacing the V9 on AT&T, the V9x adds support for AT&T's "AT&T Navigator" GPS software as well as Video Share.
+The RAZR2 has, in addition to the Opera internet browser and 2 megapixel camera, a 1000-contact phone book, calculator, notepad, alarm clock, voice recorder, and currency converter.
+The major difference between the three models are their capabilities. The V8 is a basic GSM phone with EDGE capabilities, and will be sold via conventional retail channels. The V9 supports HSDPA 3G and has video calling and features like "See What I See". The V9m is similar to the V9, except that it supports EV-DO, and a number of its specs have been downgraded, the most significant being its processor runs at half speed, and it does not include Crystaltalk. However, features such as an e-book system, major subway maps in South Korea, and an English dictionary are still present. These phones are not affected by the recent US ban on importing phones with technology by Qualcomm. The motorola RAZR2 also comes with a large 2" external screen making it the largest external screen on modern cell phones on 2007. It has three touch-sensitive music keys at the bottom of the large external screen.
+RAZR2 V8- 512&nbsp;MB or 2&nbsp;GB on board memory.
+RAZR2 V9- 3.6&nbsp;Mbit/s HSDPA, 262k color display, 512&nbsp;MHz CPU, ~50&nbsp;MB on board memory, supports up to 32&nbsp;GB microSD, Video telephony.
+RAZR2 V9m- 2&nbsp;Mbit/s EV-DO, 65k color display, 45&nbsp;MB onboard memory, supports up to 2&nbsp;GB microSD.
+RAZR2 V9x- 3.6&nbsp;Mbit/s HSDPA, 262k color display, 512&nbsp;MHz CPU, ~50&nbsp;MB on board memory, supports up to 32&nbsp;GB microSD, Video telephony, GPS.
+Quad-band GSM 850/900/1800/1900 with EDGE
+Dual-band CDMA2000 1x 800/1900 with EV-DO
+Quad-band GSM 850/900/1800/1900 with 3.6 Mbit/s HSDPA and EDGE
+Quad-band GSM 850/900/1800/1900 with 3.6 Mbit/s WCDMA
+Quad-band GSM 850/900/1800/1900 with 3.6 Mbit/s HSDPA, EDGE, and GPS
+AT&T V9x supports 4GB and 8GB microSD card.
+The television commercial features the song Le Disko from the electronica band, Shiny Toy Guns. Also featured are models Nikolett Barabas and Matt Mullins in a fight scene involving using the phones to slash each other's clothes (like a namesake razor).
+A RAZR2 commercial by Sprint for North America features several RAZR2's impaled into various objects. It then shows Eric Mangini, head coach of the NFL's Cleveland Browns, watching on his RAZR2 highlights of a Jets game that were critical of the team's performance; he flings the phone in disgust, with the phone impaling a car.

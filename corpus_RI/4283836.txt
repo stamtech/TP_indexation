@@ -1,0 +1,5 @@
+IRC poker was played with imaginary money, but attracted a devoted following of experts.  World Series of Poker champion Chris Ferguson got his start playing IRC poker.
+IRC poker offered limit Texas hold 'em, limit Omaha hold 'em (Hi-Lo), no-limit Texas hold 'em, and tournaments.  Each account was limited to "buying" 1000 chips per day, but there were no restrictions on creating new accounts so some players created multiple accounts and "harvested" the chips in fake games.
+Players in no-limit automatically bought in for the full value of their account; the most successful accumulated over one million chips and joked about selling their accounts.
+Tournaments often started with the theoretical maximum of 23 players at one table and could be completed in less than an hour.
+A poker playing program, r00lbot, was able to maintain a winning record, and provided amusing quotes as well.

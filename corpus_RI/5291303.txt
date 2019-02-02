@@ -1,0 +1,24 @@
+I have a gmail account whose address I've never published. I use it strictly as an anti-spam filter for another address (which I also keep unpublished). I include a (slightly edited) copy of the spam headers below. Any thoughts on how the spammers managed to find this gmail address and if there's anything I can do to stop this from happening in the future?
+Delivered-To: REDACTED@gmail.com
+Received: by 10.78.164.8 with SMTP id m8cs45882hue;
+Received: by 10.70.72.11 with SMTP id u11mr2554614wxa.1195016518126;
+Return-Path: 
+Received: from mail.com ()
+Received-SPF: neutral (google.com: 59.92.80.99 is neither permitted nor denied by domain of kimala_nair@yahoo.com) client-ip=59.92.80.99;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 59.92.80.99 is neither permitted nor denied by domain of kimala_nair@yahoo.com) smtp.mail=kimala_nair@yahoo.com
+Message-Id: 
+Reply-To: 
+From: "Jonathan Mesmar" 
+Subject: Get over 4000 TV Stations for a small one-time fee!
+Date: Wed, 14 Nov 2007 10:31:56 +0530
+MIME-Version: 1.0
+Content-Type: text/plain;
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+For one project I'm working on, I've (re-?)invented a datastructure, and I was wondering if there was a name or existing literature about it. Basically, it is a list of values and indices where they start, sort of like a sparse list except the previous value continues until the next value starts. At the moment I'm calling it an 'index list'.
+If we have this binding:
+Then, as_joined_string(ex) -> <tt>"foos"</tt>, but <tt>as_normal_list(ex).index(20)</tt> -> <tt>'s'</tt>. Does anyone have a more specific name than 'index list' for this?  <small>   Preceding   comment added by   ( ) 19:44, 14 November 2007 (UTC)</small><!-- Template:UnsignedIP --> <!--Autosigned by SineBot-->
+I'm a little confused about video memory in laptops.  A fellow at a local computer place told me that the video hardware installed in laptops never have their own RAM, and that they take RAM from the main system's RAM (like most on-board video in PC motherboards).  Browsing around a few computer outlets I noticed some of the laptops have the video card advertised with "dedicated RAM".  So does this guarantee that the video card has its own RAM (and doesn't go through the same bus as system RAM accesses do)?  Or does it simply mean that the RAM it grabs from the system is fixed at all times?  Thanks.  --  20:47, 14 November 2007 (UTC)

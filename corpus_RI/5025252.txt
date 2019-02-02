@@ -1,0 +1,3 @@
+This template should be used on articles describing a dotcom and its website (for example: YouTube, eBay, Facebook). If the two entities do not share the same name and/or have their own article, use  and  instead on the appropriate article (example: Google (company) and Google search (website), Yahoo! (company) and Yahoo! Search (website)).
+Copy a blank version to use.  All parameters '''''must''''' be lower case. Some parameter use a space while others use an underscore as shown. All fields are optional except the location of the company's headquarters.  To specify the location specify either  and  or .
+Use  for the "foundation" date, but '''ONLY''' if a full YYYY-MM-DD date is available.

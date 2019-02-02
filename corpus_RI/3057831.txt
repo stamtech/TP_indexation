@@ -1,0 +1,5 @@
+The development of Vulcain, assured by a European collaboration, began in 1988 with the Ariane 5 rocket program.
+Although different upgrades to the engine have been proposed
+On  2007-06-17 Volvo Aero announced that in spring of 2008 it expected to hot-fire test a Vulcain 2 nozzle manufactured with a new "sandwich" technology.
+The Vulcain engines are gas-generator cycle cryogenic rocket engines fed with liquid oxygen and liquid hydrogen. They feature regenerative cooling through a tube wall design, and the Vulcain 2 introduced a particular film cooling for the lower part of the nozzle, where exhaust gas from the turbine is re-injected in the engine  They power the first stage of the Ariane 5 launcher, the EPC (Etage Principal Cryotechnique, main cryogenic stage) and provide 8% of the total lift-off thrust
+The main contractor for the Vulcain engines is Snecma Moteurs (France), which also provides the liquid hydrogen turbopump. The liquid oxygen turbopump is responsibility of Avio (Italy), the gas turbines that power the turbopumps and the nozzle are developed by Volvo (Sweden).

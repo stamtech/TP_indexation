@@ -1,0 +1,31 @@
+The first series was hosted by Chris Rose, with support from poker author Michael Konik and poker professional Mark Gregorich. Mark Gregorich left the show at the end of the first season.
+The first series grand finale aired in February 2005 on the same day as Super Bowl XXXIX. Fox carried the Super Bowl that year, so instead of the series' usual home on FSN, NBC carried the finale instead. It was hosted by Matt Vasgersian, with support from poker professional Erick Lindgren. Backstage interviews were conducted by poker player Evelyn Ng.
+The first series was Executive Produced by David Doyle and Directed by Brian Lockwood.
+Howard "The Professor" Lederer replaced Michael Konik at the beginning of the 3rd season, with Annie Duke joining for several episodes as a "special guest". Mary Strong conducted the backstage interviews.
+The tournament was split into two series, with each player's finishing position in the series final determining their starting chip count in the grand finale.
+Similarly, the finishing position in two preliminary rounds per series determined the starting chip positions of each player in both series finals.
+The Grand Final winner received $1,000,000. The payouts for the other entrants from the $3,200,000 prize pool were unclear in the broadcast. However, Phil Ivey has said, on Full Tilt, that he walked away with about $400,000, and, therefore, broke even.
+In the first two rounds of each series, players start with 100,000 in chips. Their finish in each of these rounds determines their starting chips for the final round of the series as follows:
+Finish
+Series 1 Round 1 finish + Series 1 Round 2 finish = Starting chips for Series 1 Final
+Series 2 uses the same format. Finishes in each series final are then used to determine the Grand Finale starting chip count as follows:
+Finish - Finals
+Series 1 Final finish + Series 2 Final finish = Starting chips for grand finale.
+The blinds increased every 20 minutes.
+Six players competed in each tournament, with points being allocated as follows:
+Each player played six preliminary tournaments with players randomly drawn. At the end of this, the points were tallied and the 16 players with the most points progressed to the next round.
+The top 16 are then split into 4 pools of players
+Each pool had two matches, with points being allocated as follows:
+The points were cumulated from those 2 matches, and the players with the highest points then progressed to the quarter-finals.
+The quarter-finals are 2 groups with 4 players in each. Each group will play one match where the top two finishers will advance to the semi-finals.  The winner of the match will start the semi-finals with 1,000,000 in chips while the runner up will start with 700,000.  Players start with 50,000 chips per point earned in the round of 16.
+Both the semi-finals and finals were played in best two out of three heads-up matches.
+Players had 60 seconds to act on their hands. A player failing to act was penalized the worth of one small blind. An additional small blind penalty would be imposed for each additional ten seconds without action. The collected penalties were added to the next pot. Kathy Liebert and Mimi Tran were the only players penalized in season two, for one small blind. In season three, it was Phil Ivey.
+The payouts were as follows:
+Winner=$400,000 USD
+Runner Up=$140,000 USD
+The total prize pool was $1.2 million.  It is unclear who supplied the extra $240,000 for the pool, since 24 times 40,000 equals only $960,000.  (NOTE: This problem was solved in Season 3 with the $50,000 buy-in.)
+Season 3 played exactly like Season 2, except for the following differences:
+There have been two computer games made of the first two seasons of the show.   
+There is an online web version made in flash of the computer game
+These were published by Funkitron and available at , the official Funkitron Poker Superstars website.   
+The AI used in them was created by Brian Sheppard, the programmer who created the Maven Scrabble playing AI for Scrabble.

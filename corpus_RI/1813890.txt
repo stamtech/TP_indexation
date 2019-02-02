@@ -1,0 +1,115 @@
+The list scope includes outlying islands:
+This is a list of the wild birds found in Australia including its outlying islands and territories, but excluding the Australian Antarctic Territory.  The outlying islands covered include: Christmas, Cocos (Keeling), Ashmore, Torres Strait, Coral Sea, Lord Howe, Norfolk, Macquarie, and Heard/McDonald.  The list includes introduced species, common vagrants and recently extinct species.  It excludes extirpated introductions (e.g. Ostrich), some very rare vagrants (seen once) and species only present in captivity.  Eight hundred and forty-two extant species are listed.
+The taxonomy followed is from Christidis and Boles, 2008. Their system has been developed over nearly two decades and has strong local support, but deviates in important ways from more generally accepted schemes.
+Order: Casuariformes. Family: Casuariidae
+This family of flightless ratite birds is represented by two living species in Australia, another two having perished since human settlement.
+Order: Galliformes. Family: Megapodidae
+Order: Galliformes. Family: Phasianidae
+The Phasianidae is a family of birds which consists of the pheasants and their allies. These are terrestrial species, variable in size but generally plump, with broad, relatively short wings. Many species are gamebirds, or have been domesticated as a food source for humans. Three species are native to Australia, and five commonly domesticated species are feral.
+Order: Galliformes. Family: Numididae
+Order: Anseriformes. Family: Anseranatidae
+The family contains a single species, the Magpie Goose. It was an early and distinctive offshoot of the anseriform family tree, diverging after screamers and before all other ducks, geese and swans, sometime in the late Cretaceous. The single species is found across Australia.
+Order: Anseriformes. Family: Anatidae
+The family Anatidae includes the ducks and most duck-like waterfowl, such as geese and swans. These are adapted for an aquatic existence, with webbed feet, bills that are flattened to a greater or lesser extent, and feathers that are excellent at shedding water due to special oils. In Australia, 26 species have been recorded, of which three have been introduced, and three are vagrants.
+Order: Pelecaniformes. Family: Phaethontidae 
+Tropicbirds are slender white birds of tropical oceans, with exceptionally long central tail feathers. Their long wings have black markings, as does the head. Two species have been recorded from Australian waters.
+Order: Podicipediformes. Family: Podicipedidae
+Grebes are small- to medium-large-sized freshwater diving birds. They have lobed toes, and are excellent swimmers and divers. However, they have their feet placed far back on the body, making them quite ungainly on land. Three species have been regularly recorded in Australia, and a fourth is a vagrant.
+Order: Columbiformes. Family: Columbidae
+Pigeons and doves are stout-bodied birds with short necks and short slender bills with a fleshy cere. 31 species have been recorded in Australian territory, five of which have been introduced, and another three are vagrants. Three have become extinct since European colonisation.
+Order: Podargiformes. Family: Podargidae
+The frogmouths are a distinctive group of small nocturnal birds related to swifts found from India across southern Asia to Australia. Three species are found in Australia.
+Order: Aegotheliformes. Family: Aegothelidae
+The owlet-nightjars are a distinctive group of small nocturnal birds related to swifts found from the Maluku Islands and New Guinea to Australia and New Caledonia. There are eleven species, one of which is found in Australia.
+Order: Apodiformes. Family: Apodidae
+Swifts are small aerial birds, spending the majority of their lives flying. These birds have very short legs and never settle voluntarily on the ground, perching instead only on vertical surfaces. Many swifts have long swept-back wings that resemble a crescent or a boomerang. There are 98 species worldwide, with eight recorded in Australian territory, four of which are vagrants.
+Order: Procellariiformes. Family: Hydrobatidae
+The storm-petrels are the smallest of seabirds, relatives of the petrels, feeding on planktonic crustaceans and small fish picked from the surface, typically while hovering. Their flight is fluttering and sometimes bat-like. One species has been regularly recorded in Tasmania's waters, and two more are vagrants.
+Order: Procellariiformes. Family: Diomedeidae
+The albatrosses are a family of 21 species of large seabird found across the Southern and North Pacific Oceans. The largest are among the largest flying birds in the world. Nine species are regularly seen in Australian waters, with another recorded as a vagrant.
+Order: Procellariiformes. Family: Procellariidae
+The procellariids are the main group of medium-sized "true petrels", characterized by united nostrils with medium nasal septum, and a long outer functional primary flight feather. 51 species have been recorded from Australian waters.
+Order: Sphenisciformes. Family: Spheniscidae
+Penguins are a group of aquatic, flightless birds living almost exclusively in the southern hemisphere, especially in Antarctica. One species breeds on the Australian coast, while another ten have been recorded as vagrants.
+Order: Pelecaniformes. Family: Fregatidae
+Order: Pelecaniformes. Family: Sulidae 
+The sulids comprise the gannets and boobies. Both groups are medium-large coastal seabirds that plunge-dive for fish.Six species have been recorded from Australian territory.
+Order: Pelecaniformes. Family: Anhingidae
+Darters are cormorant-like water birds with long necks and long, straight bills. They often swim with only the neck above water, and are fish-eaters. One species is found in Australia.
+Order: Pelecaniformes. Family: Phalacrocoracidae
+Cormorants are medium-to-large aquatic birds, usually with mainly dark plumage and areas of colored skin on the face. The bill is long, thin, and sharply hooked. Their feet are four-toed and webbed, a distinguishing feature among the Pelecaniformes order.  Six species occur in Australian  territory, with a seventh as a vagrant.
+Order: Pelecaniformes. Family: Pelecanidae
+Pelicans are large water birds with a distinctive pouch under the bill. Like other birds in the order Pelecaniformes, they have four webbed toes.  One species has been recorded in Australia.
+Order: Ciconiiformes. Family: Ciconiidae
+Order: Ciconiiformes. Family: Ardeidae
+Order: Ciconiiformes. Family: Threskiornithidae
+Order: Acciptriformes. Family: Accipitridae
+Order: Acciptriformes. Family: Pandionidae
+Order: Falconiformes. Family: Falconidae
+Order: Gruiformes. Family: Gruidae
+Order: Gruiformes. Family: Rallidae
+Order: Gruiformes. Family: Otididae
+Order: Charadriiformes. Family: Chionididae
+Order: Charadriiformes. Family: Burhinidae
+Order: Charadriiformes. Family: Haematopodidae
+Order: Charadriiformes. Family: Recurvirostridae
+Order: Charadriiformes. Family: Charadriidae
+Order: Charadriiformes. Family: Pedionomidae
+Order: Charadriiformes. Family: Jacanidae
+Order: Charadriiformes. Family: Rostratulidae
+Order: Charadriiformes. Family: Scolopacidae
+Order: Charadriiformes. Family: Turnicidae
+Order: Charadriiformes. Family: Glareolidae
+Order: Charadriiformes. Family: Stercorariidae
+Order: Charadriiformes. Family: Laridae
+Order: Cuculiformes. Family: Cuculidae
+Order: Strigiformes. Family: Strigidae
+Order: Strigiformes. Family: Tytonidae
+Order: Coraciiformes. Family: Alcedinidae
+Order: Coraciiformes. Family: Halcyonidae
+Order: Coraciiformes. Family: Meropidae
+Order: Coraciiformes. Family: Coraciidae
+Order: Passeriformes. Family: Pittidae
+Order: Passeriformes. Family: Menuridae
+Order: Passeriformes. Family: Atrichornithidae
+Order: Passeriformes. Family: Climacteridae
+Order: Passeriformes. Family: Ptilonorhynchidae
+Order: Passeriformes. Family: Maluridae
+Order: Passeriformes. Family: Dasyornithidae
+Order: Passeriformes. Family: Acanthizidae
+Order: Passeriformes. Family: Pardalotidae
+Order: Passeriformes. Family: Meliphagidae
+Order: Passeriformes. Family: Pomatostomidae
+Order: Passeriformes. Family: Orthonychidae
+Order: Passeriformes. Family: Psophodidae
+Order: Passeriformes. Family: Neosittidae
+Order: Passeriformes. Family: Campephagidae
+Order: Passeriformes. Family: Pachycephalidae
+Order: Passeriformes. Family: Oriolidae
+Order: Passeriformes. Family: Artamidae
+Order: Passeriformes. Family: Dicruridae
+Order: Passeriformes. Family: Rhipiduridae
+Order: Passeriformes. Family: Laniidae
+Order: Passeriformes. Family: Corvidae
+Order: Passeriformes. Family: Monarchidae
+Order: Passeriformes. Family: Corcoracidae
+Order: Passeriformes. Family: Paradisaeidae
+Order: Passeriformes. Family: Petroicidae
+Order: Passeriformes. Family: Alaudidae
+Order: Passeriformes. Family: Cisticolidae
+Order: Passeriformes. Family: Acrocephalidae
+Order: Passeriformes. Family: Megaluridae
+Order: Passeriformes. Family: Zosteropidae
+Order: Passeriformes. Family: Sylviidae
+Order: Passeriformes. Family: Phylloscopidae
+Order: Passeriformes. Family: Hirundinidae
+Order: Passeriformes. Family: Pycnonotidae
+Order: Passeriformes. Family: Muscicapidae
+Order: Passeriformes. Family: Turdidae
+Order: Passeriformes. Family: Sturnidae
+Order: Passeriformes. Family: Nectariniidae
+Order: Passeriformes. Family: Estrildidae
+Order: Passeriformes. Family: Passeridae
+Order: Passeriformes. Family: Motacillidae
+Order: Passeriformes. Family: Fringillidae
+Order: Passeriformes. Family: Emberizidae

@@ -1,0 +1,375 @@
+Image:Apotheosis of George Washington.jpg
+The small sections in the article seem to me to be too colour saturated, but the one you requested is definitely too flat. Based on  one, I've boosted contrast, especially within the fresco itself, to meet the small sections halfway, so to speak. How's it looking? --   09:07, 29 December 2007 (UTC)
+Image:India wine regions.JPG
+Image:India Wine.png
+If you have any more detailed areas you might want to try out on  .  Also   would be a good base map... and anyone who knows SVG well (not really me...) should be able to fill / shaed the provinces and add labels with no problem.     06:20, 2 January 2008 (UTC)
+Image:Ogasawara islands.png|#1
+Image:Ogasawara islands edit.png   |#2+Iwo Jima
+Image:Iwo jima location map.png|#3-second map to clean up, this is pretty bad, maybe a merger of the two ideas?
+Image:Iwo jima location mapSagredo.png|#4
+Image:States of Palau.jpg|map of Palau, actually large central island like Guam
+Wind it up
+Wind it up
+Wind it up
+Wind it up
+Image:Emblema KGB.svg|Base image
+Image:KGB Belarus crest.gif|Image to be replaced (GIF)
+Image:Coat of arms of Belarus.svg|The CoA
+Image:KGB_Belarus_crest.svg| by Sagredo
+Image:Engaewa similis diagram.svg
+The problem was that there was an image still in the SVG. An image, probably used to trace from, was left in the SVG, but not embedded, simply a link to a file. Because this file was obviously not on Wikimedia's servers, it threw up an error and so it wouldn't display. I simply removed the image in a text editor and it displayed fine. (I also vacuumed defs and saved around 20k, remember to do this before uploading!) :-)   >   <sup> </sup></span> <span style="font-size: 17pt;">   </span> 11:15, 1 January 2008 (UTC)
+Image:WAGGGSAsiaPacificMap-World.png|please make a clear map with sharp borders between nations, add Vietnam, SVGify
+Image:World_Association_of_Girl_Guides_and_Girl_Scouts_map.svg|for light grey
+Image:Sikkim locator map.svg|for pastel red
+Image:World_Association_of_Girl_Guides_and_Girl_Scouts-Asia_Pacific_Region.svg|just needs Laos greyed out, and the eastern neck of the Caspian, Lake Baykal and Lake Balkhash clear bkgd as water
+Image:WOSMAsiaPacificMap-World.png|please make a clear map with sharp borders between nations, add Vietnam and Iran, SVGify
+Image:World_Organization_of_the_Scout_Movement_map.svg|for light grey
+Image:Sikkim locator map.svg|for pastel red
+Image:World_Organization_of_the_Scout_Movement-Asia-Pacific_Region.svg|just needs Laos greyed out, Iran made pink, and the eastern neck of the Caspian, Lake Baykal and Lake Balkhash clear bkgd as water
+Image:Flag of Salt Lake City, Utah.jpg|JPG
+I converted the text to paths so it would show up.  The image page also needs a  , or it will be deleted very soon.  Let me know if you have any questions.  --   ( / ) 08:17, 1 January 2008 (UTC)
+Image:1853Yokohama 01.jpg 
+Image:1853Yokohama 1Sagredo.jpg|by Sagredo
+How's that?    ( ) 16:35, 1 January 2008 (UTC)
+Image:WAGGGSArabMap-World.png|please make a clear map with sharp borders between nations, SVGify
+Image:WOSMArabMap-World.png|please make a clear map with sharp borders between nations, remove Iran, SVGify
+Image:World_Organization_of_the_Scout_Movement-Eurasian_Region.svg|for light grey and pastel green
+Image:WOSM-WAGGGS-Arab_Region.svg
+Great, perfect, done, thanks!   ( ) 20:25, 3 January 2008 (UTC)
+Image:Amaterasu cave.JPG
+Image:Amaterasu cave edit.JPG|lightened
+Image:Amaterasu cave edit2.jpg|lines painted out
+Oh, I thought that was intentional (as in, fuzzy "insert detail here" area), and it iss a part of the design that I particularly like. --  19:52, 17 October 2007 (UTC)
+If you're going to use this, at least finish the grey blob in the middle.  :-)       02:27, 26 October 2007 (UTC)
+Are these done? I know my request for the battleship placeholder is good, what about the others?   ( ) 07:53, 12 January 2008 (UTC)
+Image:Scarborough Chapel (front).jpg|160 px wide
+Image:Scarborough Chapel (front) edit.jpg|Edited version
+Thank you very much. The photo looks very professional now. Yes, please mark it as done. The image has found its way to East Texas Baptist University. 
+Thank you once again. 
+Regards, 
+Kushal    12:02, 12 January 2008 (UTC)
+Article(s):Delta Sigma Theta, List of Delta Sigma Theta sisters
+Image:DeltaSigmaTheta.svg -->
+Right, it's weekend, so I'll give it another bash. --  ( ) 14:17, 29 December 2007 (UTC)
+Image:Winterpatterns.gif
+Image:MN weatherpatterns.svg
+1. A background map of the United States (with state borders), Southern Canada and Northern Mexico, just like this map shows.
+2. The 3 storm tracks with similar paths as shown.  The paths can end as arrows where they do on the map now.
+3. The "Warm Moist" and "Cool Dry" air mass identifiers should be similarly placed as well.
+4. Then in addition what would be nice is some kind of simple legend on the bottom, maybe with a line color and the name of the storm track next to it. 
+That's about it.  As far as sources for the map, do I need to provide that, or is there a repository somewhere?     ( ) 03:46, 22 December 2007 (UTC)
+Should it be for minnesota only, or for the whole US? Doesn't really get that point. ?   03:51, 22 December 2007 (UTC)
+Wikipedia does have a repository of  .  But the one of North America shows Michigan amalgamated with the Great Lakes into a new state.  Does anyone know of a better starting point for this project?      06:16, 30 December 2007 (UTC)
+Image:Blastocyst.png
+Image:Blastocyst_English.svg
+Image:Blastocyst.svg
+Image:U.S._Coast_Guard_Ensign_Flag.gif|To be replaced
+Image:US-GreatSeal-Obverse.svg|For the canton
+Image:Us-civil.svg|For the stripes, this will have to be modified slightly, however.
+Image:USCG S W.svg|The logo
+Image:Ensign_of_the_United_States_Coast_Guard.svg| by Sagredo
+Image:Iida Shojiro.jpg
+Image:Iida Shojiro blur.jpg| Sagredo
+Image:Iida Shojiro sharp.jpg|Is this better?
+Image:Iida Shojiro Fourier blur unsharp.jpg|Fourier masking, 2x2 blur, despeckle, unsharp mask.
+Image:Iida Shojiro Fourier blur copy background.png|Background blurred
+This looks like a perfect job for the Fourier transform.  I'll take a look this evening when I get home. --  ( ) 05:42, 9 January 2008 (UTC)
+The link in the article looks perfectly normal.   I have any idea how one might encode anything in a png other than the standard metadata.  I would guess that there was a delay between wiki's servers somewhere.  Haven't you ever run into the Wikipedia Database Locked Page?  I just did.     02:02, 11 January 2008 (UTC)
+Image:Skype_logo.png|PngImage:NonFreeImageRemoved.svg|Svg
+Image:Coat of arms of the Vatican City.svg|The initial image in question
+Image:Holysee-arms.png|Same blazon except for the positions of the keys
+Image:Holysee-arms.svg|Free SVG of the above?
+Image:WAGGGSMap-Europe.png|please make a clear map with sharp borders between nations, SVGify
+Image:World_Association_of_Girl_Guides_and_Girl_Scouts_map.svg|all countries blue on this map, Andorra should be in light grey as no Scouting organization 
+Image:World_Association_of_Girl_Guides_and_Girl_Scouts-Asia_Pacific_Region.svg|for light grey
+Image:World_Association_of_Girl_Guides_and_Girl_Scouts-Europe_Region.svg  
+Image:WOSMMap-Europe.png|please make a clear map with sharp borders between nations, SVGify
+Image:World_Organization_of_the_Scout_Movement_map.svg|all countries blue on this map, Andorra should be in light grey as no Scouting organization 
+Image:World_Organization_of_the_Scout_Movement-Asia-Pacific_Region.svg|for light grey
+Image:World_Organization_of_the_Scout_Movement-European_Region.svg| Israel?
+Image:Flag of Rhodesia.svg|This "SVG" is up for deletion on Commons as a mislabeled bitmap
+Image:Flag of Zimbabwe.svg|Swipe the bird from here and recolor?
+Image:Flag_of_Rhodesia.svg
+Image:Rhodesian coat of arms Sag.svg|SVG
+This is somewhat of an improvement.     01:34, 5 January 2008 (UTC)
+The last flag was done by inkscape tracing the seal to svg format.  It's as good as I'm going to get it by that method.  Redrawing it by hand would be a lot of work, and really should have a better image to start with.      03:00, 5 January 2008 (UTC)
+The flag had a thin blue line at the top for a while.  Very thin; I did not notice at for a while, then fixed it.  Not sure why it happened. A stroke effect in Inkscape which I either added unknowningly or Inkscape sometimes seems to do weird things.  For the Seal, the svg may not be an improvement over the png.    19:45, 5 January 2008 (UTC)
+FYI you can download an svg by using "save page as" and then upload them wherever you wish.     19:45, 5 January 2008 (UTC)
+Sorry, but I feel that the old PNG version is more true to the actual look of the image. The SVG version that has been created here is very green and doesn't look right to my eyes. Not only that but the coat of arms are very blurred and it is hard to make the image out. Sadly I lack the knowledge of how to improve the images but is there any way we could make corrections and possibly enlarge the image?   ( ) 18:54, 10 January 2008 (UTC)
+Image:WilayaJijel.svg
+Image:Oran Province narrow border.svg
+Everything in  . Everything. 
+This should do everything you want.  In addition the borders can easily turned on or off, made any color, and varied from thick to thin.  Instructions for Inkscape are on the map's description page.  About how many articles will it be used for?      04:10, 11 January 2008 (UTC)
+Image:WAGGGS-WOSMWestHemMap-crude for GL.png|crude map I made to explain what I mean by shift in perspective
+Image:World pacific.png|I was able to open up the file and trim out the area I need  
+Here is as far as I got so far.  I'll get the islands colored when I can.    ( ) 01:58, 7 January 2008 (UTC)
+Image:Ye Htoon.jpg
+Image:DYN Medal.png|original
+Image:DYK Medal.svg|SVG
+Image:DYK_Medal.svg|Attempt 1     Preceding   comment added by   (       ) 21:29, 7 January 2008 (UTC) 
+How, is it supposed to look ?  It looks different depending on the size of the thumbnails, and also looks different viewed in full size inbetween Inkscape and Firefox.  In Inkscape the lines are a darker red, in Firefox they are almost black.   ( ) 20:52, 7 January 2008 (UTC)
+Image:Presidential Standard of Finland.svg|Add a heraldic rose to this
+Image:President-Finland-Flag.png|"Superseded png" example with a rose. Size might not be best. (looks a bit large maybe?)
+Image:WOSM-WAGGGSAfricaMap-World.png|please make a clear map with sharp borders between nations, SVGify
+Image:India Sikkim locator map.svg|for pastel orange
+Image:World_Organization_of_the_Scout_Movement-Eurasian_Region.svg|for light grey 
+Image:WOSM-WAGGGSAfricaMap-World.svg
+Yes, especially if you want the surrounding landmasses.     19:12, 9 January 2008 (UTC)
+Image:Tokonoma morse.jpg
+Image:Tokonoma morse edit.png
+Image:Fresno Assembly Center merit badge card.jpg 
+Image:Fresno Assembly Center merit badge card.png
+Image:Fresno Assembly Center merit badge card 2.png
+Image:Guelma.gif|GIF
+Image:Guelma.png|PNG with transparent background
+Image:Nasc_header.gif
+Image:CSA FLAG 4.3.1861-21.5.1861.svg|Start here...
+Image:CSA Flag 21.5.1861-2.7.1861.svg
+Image:CSA Flag 2.7.1861-28.11.1861.svg
+Image:CSA FLAG 28.11.1861-1.5.1863.svg
+Image:ANV flag.png|This just needs to be converted.
+Image:ANV Flag.svg
+Image:Seshat.svg|original
+Image:Seshat edit.svg|export bmp/autotrace
+Image:Seshat edit2.svg|manual pattern
+Image:Redblankwikimania2008.png
+Image:Blueblankwikimania2008.png
+Image:Wikimania.png
+Image:Wikimania.svg|SVG
+Image:Redblankwikimania2008.svg|New version
+Image:Blueblankwikimania2008.svg|New version
+Is there a higher resolution image with the WM logo?  I'm hesitant, because I don't want to get a trademark wrong.  --   ( / ) 09:50, 14 January 2008 (UTC)
+Image:Coat_of_arms_of_Guatemala.svg|CoA
+Image:Flag of Guatemala.svg|Current flag with detailed CoA
+Image:Guatemala Presidental Flag.svg|Flag needing synchronization
+Image:Eadbald descendants.gif
+Image:DESCENDANTS OF EADBALD OF KENT.svg 
+It's done.     17:29, 12 January 2008 (UTC)
+Image:SpiderGraph Abbe Number.gif|'''Original'''
+Image:SpiderGraph Abbe Number.svg|'''SVG'''
+Thanks, I have now uploaded an svg.  You will notice some changes:
+I also included the original data and the gnuplot script in the svg file as a comment at the bottom.
+Let me know what you think --  ( ) 13:58, 29 December 2007 (UTC)
+Thank you for the nice graph. Good job!
+OK, I will add the note to the graph and change the lengths of the regression lines, and you can edit the image page. --  ( ) 08:28, 8 January 2008 (UTC)
+Image:Sergeant Floyd Monument, sunset.jpg
+Image:Sergeant_Floyd_Monument,_sunset.jpg | lense correction, noise reduction and whitebalancing
+Have straighten the monument up, also made some noise reduction, refocusing and whitebalancing.       17:16, 9 December 2007 (UTC)
+Marked the old one superseded.   ( ) 16:29, 18 January 2008 (UTC)
+Image:London Midland Network ZP.svg
+Image:London Midland Rail Network Sagredo.svg| by Sagredo
+London Midland only.
+Image:Harare Coat of Arms.png
+Image:Coat of arms of Harare.svg|SVG
+Image:Harare Flag.gif|Easy?
+Image:Flag of Harare.svg|Actually, yes.
+A request: Since you've SVGified the Coat, could you also produce an SVG of the flag? It's just the crest expanded to fit a flag, as can be seen. Thanx,   ( ) 00:32, 18 January 2008 (UTC)
+Image:Nakamura-ward meieki.jpg 
+Image:Nakamura-ward meieki Sag.jpg
+Image:Nakamura-ward meieki crop.jpg
+Image:Jimmy Buffet navy (cropped).jpg
+Image:Jimmy Buffett navy (cropped).png
+Image:COA of the Second Spanish Republic.svg|The "Crown"?
+Image:US-DeptOfCommerce-Seal.svg|The light station and ship?
+Image:Coat_of_arms_of_Arzew.svg|SVG
+Tagged both as superseded.   ( ) 16:41, 18 January 2008 (UTC)
+Image:Dutchbaby.jpg
+Ok, Please note that Jeff's pattern for Seshat didn't really work.  Adding spots, we're up to 1.35MB, which if it isn't a record for an image this size, it's at least notable.  The spots are evenly spaced on the image, even if they don't show up that way on some sizes of images in the screen.  PNG is probably a better way to go  The effect on the sun(?)'s rays in the png is simply noise.       23:24, 18 January 2008 (UTC)
+Ok, a png with some noise in the gold.  What do you think?  And by the way, if you're scanning these, could you use a higher resolution?     01:54, 20 January 2008 (UTC)
+What spots?  I don't see any spots.  Does anybody see any spots?  ; )      21:53, 20 January 2008 (UTC)
+Image:Founders_Window.jpg|Original Image
+Image:AKAFounders_Window.jpg|Derivative (cropped/rotation)
+Image:AKAFounders Window2.jpg| sharpened
+Image:Coptic flag.svg|The SVG'd flag
+Image:CopticCoatOfArms007.jpg|This and
+Image:CopticCoatOfArmsSmallGreen.jpg|this both need to be replaced by a single image
+Image:Coptic COA.svg| SVG
+Image:Tv the muppet show bein green.jpg 
+Image:Tv the muppet show bein green.pngImage:NonFreeImageRemoved.svg| little frog in background erased
+Do you want the big one in the foreground to go alway, also?      08:06, 19 January 2008 (UTC)
+Like this.     04:32, 20 January 2008 (UTC)
+Image:FLAG OF SERBIAN ARMED FORCES (flipside).jpg|Flag to SVG; new image should probably be titled "Standard of the Serbian Armed Forces (back).svg" for consistency.
+Image:Standard of the Serbian Armed Forces (front).svg|Use this image as a base
+Image:Flag of Serbian Armed Forces (text).svg| text jpg
+Image:FLAG OF SERBIAN ARMED FORCES text.svg| text svg
+Image:Flag of the Serbian Armed Forces (reverse).svg|How's this?
+Image:DST Torch.gif
+Image:DST Torch.svg|svg
+Image:Iupac-alkane-1.png
+Image:Iupac-alkane-2.png
+Image:Iupac-alkane-3.png
+Image:Iupac-alkane-4.png
+Image:Iupac-alkane-5.png
+Image:Iupac-alkene.png
+Image:Iupac-alkyne.png
+Image:Iupac-alcohol-1.png
+Image:Iupac-alcohol-2.png
+Image:Iupac-halogen.png
+Image:Iupac-ketone.png
+Image:Iupac-aldehyde.png
+Image:Iupac-carboxyl.png
+Image:Iupac-ether.png
+Image:Iupac-ester-1.png
+Image:Iupac-ester-2.png
+Image:Iupac-amine.png
+Image:Iupac-amide.png
+Image:Iupac-cyclic.png
+Image:IUPAC-alkane-1.svg
+Image:IUPAC-alkane-2.svg
+Image:IUPAC-alkane-3.svg
+Image:IUPAC-alkane-4.svg
+Image:IUPAC-alkane-5.svg
+Image:IUPAC-alkene.svg
+Image:IUPAC-alkyne.svg
+Image:IUPAC-alcohol-1.svg
+Image:IUPAC-alcohol-2.svg
+Image:IUPAC-haloalkane.svg
+Image:IUPAC-ketone.svg
+Image:IUPAC-aldehyde.svg
+Image:IUPAC-carboxylic acid.svg
+Image:IUPAC-ether.svg
+Image:IUPAC-ester-1.svg
+Image:IUPAC-ester-2.svg
+Image:IUPAC-amine.svg
+Image:IUPAC-amide.svg
+Image:IUPAC-cyclic.svg
+Image:University of OK main campus.svg| SVG
+Image:University of OK main campus.png| PNG
+Image:University of OK entire campus.svg| SVG
+Image:University of OK main streets.png| PNG
+Image:University of OK South campus.svg| SVG
+Image:University of OK South campus.png| PNG
+On Google Maps,  shows the main campus which is already grayed. For the south campus,  shows the area and it would be from E. Constitution on the north to Hwy 9 on the south and Jenkins on the west to Dewey on the east.
+I would be happy to answer any further answers if needed.         21:05, 10 January 2008 (UTC)
+Ok, here's the big map.  It needs a good proof reading.  I put up two versions, a .svg and a .png.  Often the Firefox browser displays svg's oddly, with the text too big, and it did it here.  (Anybody out there with a solution or even just an explanation would be most welcome.)   When it's been checked over, I'll do the two  smaller versions in both file types.       02:44, 22 January 2008 (UTC)
+Look over one version of each the new ones carefully. (the PNG's are probably easier) I moved some street labels around, and could have deleted or submerged something.  The SVG with both campuses is the one to be sure to hang on to; it is the master from which the others are made.  The other SVG are are complete, but do have some labels moved.  
+SVG vs PNG  As far as I know there is a indeed a move to svg.  But at this time Internet Explorer does not read them at all and Firefox doesn't always do it well.  (doesn't do the street labels at all well on these.)  So, while you may want to use the png's today, the day of the svg will come.  You might want have an admin rename the map of the entire campus.  (I used main streets meaning main streets labeled - saved in the event of an Inkscape crash) The labeling did not turn out to be as bad a chore as I thought it might.  Enjoy!      02:56, 23 January 2008 (UTC)
+Image:BoNM - Germany2.png|Image to base upon
+Image:Flag of Estonia.svg|Flag to use
+Image:Coat of Arms of Lithuania.svg | Horrid SVG
+Image:Coat of arms of Lithuania redraw from original.png | Quality PNG
+Image:Coat of Arms Lithuania.gif | Low quality GIF
+The only real difference I see is the use of thick outlines on the "quality png" one.  I've never been a fan of outlines on coats of arms, because if they're designed right, the colors that border one another contrast with each other.  That's clearly the case here.  The white horse and rider contrast with the red, so there's no need for a thick black outline.  
+Image:Blason fr Bourgogne.svg|outlines - notice that the middles of the yellow flowers are completely black
+Image:John the Fearless Arms.svg|no outlines
+Image:Escudo_de_Navarra_(oficial).svg|Black outline on the chain makes it hard on the eyes
+Image:Navarre Arms.svg|Yellow chains with a light brown outline is pleasing to the senses
+The color of the spurs is different too, but I think that's just styling.  --   '' '' 11:02, 21 January 2008 (UTC)
+I might add that the various .lt government websites all have different looking Vytis's.   ( ) 20:18, 25 January 2008 (UTC)
+Image:Coa Bejaia.png
+Image:NonFreeImageRemoved.svg 
+Image:Trumbo and Cleo 1947 HUAC hearings3.png
+Image:Chuuk.jpg
+Image:Chuuk.jpg| edit
+Image:World_Organization_of_the_Scout_Movement-Eurasian_Region.svg|please add Kazakhstan
+Image:Mexico stateflags Tabasco.png|Detailed Version
+Image:Escudo_de_Tabasco_ZP.svg|SVG Version
+Image:Escudo de Tabasco ZP 2.svg|SVG-'''can the hollow space be trimmed from the sides?'''
+Image:Mexico stateflags Tabasco.svg| SVG Flag
+Ok I've started this one. I will convert the first one to an svg. Anyone wanting to do further work on it afterwards can use it as a base. By the way, next time please use the template specified on the top of the page. It is there for a reason. Least of all, spelling.   18:36, 10 November 2007 (UTC)
+As far as I can tell this is done; what's the "Can we trim the hollow space" part? Is that a question directed at me, or someone else...?   ( ) 17:40, 26 January 2008 (UTC)
+We need to standarize them. There are three variants (see  ):
+The discussion at WikiProject Poland has resulted in chosing the first version (red on blue), but nobody has stepped forward to redo them in svg. I expect this should be relatively simple task? -- |  12:01, 1 January 2008 (UTC)
+Image:Lublin Voivodship 1938.png|Chosen variant, needs conversion to svg, and few images are missing from the set
+Image:Poland Voivodeships adminstrative division 1930 Warsaw Voivodeship.svg|to be replaced
+Image:Wojewodztwo lubelskie 38.png|to be replaced
+Image:Poland Warsaw Voivodship 1930.svg
+Image:Poland Lublin Voivodship 1921-1939.svg
+Very easy - there was already an SVG, so it's just recolouring.  Hope that's what you were looking for.    ( ) 15:42, 1 January 2008 (UTC)
+Image:City of Warsaw Voivodeship.svg
+Request fulfilled, thank you guys! -- |  00:12, 30 January 2008 (UTC)
+Image:La Tour Eiffel en 1937.png
+Image:NonFreeImageRemoved.svg
+Image:La Tour Eiffel en 1937 contrast.png| adjusted contrast
+Image:German pavilion 1937-1 color adjust.png|adjusted colorImage:NonFreeImageRemoved.svg|How's this?
+Background - Spanish Civil War leading up to WWII.Picasso's Guernica painting a major exhibit.
+Nazi and Soviet exhibits literally "face off", with major artworks.
+Any editing advice appreciated.   ( ) 16:11, 8 January 2008 (UTC)
+Image:US-GreatSeal-Obverse.svg|The base image
+Image:House large seal.png|For replacement
+Image:US Congress seal.png|Should be fairly easy?
+Image:Senate cap.PNG|To be done if possible (Also visible )
+Image:LeahyCO.jpg|Alternate Senate seal?
+Image:USA Great Seal Reverse.png|Whoever does this one gets a barnstar
+Image:Us senate seal.png|Bad news     Another one (Looks almost exactly like the House one though
+Image:Seal of the Speaker of the US House of Representatives.png|The most un-seal like seal ever
+Image:VPofUSSeal.PNG|You can plagairize the deatails from   or  .
+Image:Ppt-seal.png
+Image:Seal of the United States Supreme Court.png|The Greatest Coat. This one is almost all the official Great Seal (Already in SVG, only flattened a little and done in all one color.
+Image:Seal of the House of Representatives.svg|Replacement 1
+Image:US Congressional Seal.svg|Replacement 2
+Image:Alternative Senate seal.svg|New image based on picture above
+Image:Senate Seal.svg|Senate seal
+Image:Alternative Senate seal 2.svg|Unofficial Senate seal #2
+Image:US-Senate-UnofficialAltGreatSeal.svg|Extracted by  
+Image:US-Senate-UnofficialAltSeal.svg|Extracted by  
+Image:US Vice President Seal.svg|VP
+Image:President Pro Tempore seal.svg|President Pro Tempore
+Image:Seal of the United States Supreme Court.svg|USSC
+Image:Seal of the Speaker of the US House of Representatives.svg|Speaker of the House
+Image:US Great Seal Reverse.svg|REVERSE OF THE GREAT SEAL
+Sorry to be annoying, but I turned up another "Senate seal". It's such a plagairizm of the House logo though that it should be easily doable.   ( ) 15:15, 17 January 2008 (UTC) PS. Also, can I some other coats to this request, or would that be too much?   ( ) 15:37, 17 January 2008 (UTC)
+Also, I suspect that   and   are really the same thing.   ( ) 18:35, 18 January 2008 (UTC)
+Hey all, I was not aware of this going on when I uploaded the two I extracted.  I've had them done for little while but had not gotten around to uploading them... may have saved a little work, sorry about that.  Great job all around though; it'll be nice to have some SVG versions of these.  One thing is that the Senate and Congress unofficial seals (and the official Senate one) seem to use a different font than the one used here... not sure if that can be changed or not, but it may help if it could.  Some elements of the VP seal are more gray in the source image; that may look better against the white background.  A couple of other notes -- the House "seal" here is also unofficial, as is the Congress one.  There is no official seal of Congress, and the official House seal apparently apparently dates from 1963 and shows the southeast (House) side of the U.S. Capitol building with a ring of stars around it, but I've never seen an image of it.  Earlier house seals apparently showed the Capitol building as it was in the very early 1800s (before even the original dome was built).  The senate seal is only used in very particular circumstances, so it seems they have come up with these "unofficial", alternate versions.  As you see, one of them always seems to be used on podiums during speeches, etc.  The image of the official seal is from a stained glass window in the Capitol (see  ).  I guess the House seal is under similar restrictions, so they have a similar set of unofficial versions used on websites etc., but I've not seen a picture of any of the official ones.  The stars on the shield probably come from the vector of the Great Seal (see the original PDF source; they have the stars even though the Great Seal is not supposed to have them).  Anyways, kudos again on the great job here -- it's great to have SVG versions of a lot of these.  And good luck on the reverse of the Great Seal -- I've never found a vector version of it  :-)    ( ) 17:07, 19 January 2008 (UTC)
+President pro tempore done.  --   '' '' 06:22, 21 January 2008 (UTC)
+USSC done.  --   '' '' 10:22, 21 January 2008 (UTC)
+I'm not sure about Stanford's vector generator: it seems to produce rough edged letters, unlike, say the already uploaded House seal. I think that Stanford may be useful for a start, but things like lettering may be better done by insertion of text manually.   ( ) 21:15, 22 January 2008 (UTC)
+I think they're all done (?), and the back of the Great Seal can wait untill we find a PDF with a vector version of it, or failing that someone lists it here again after a few months.   ( ) 20:09, 23 January 2008 (UTC)
+This is probably easily the most productive request I've ever seen here, I'll have to give you all a  , so you can all take a petal and leave the center for the lab itself ;D.   ( ) 17:35, 26 January 2008 (UTC)
+Image:Sacred cow2.jpg |Picture of a demon attempting to kill a cow.
+Image:Kali.png
+Here it is.
+I'm good at making things go away, anybody seen my mouse..?          Preceding   was added at 07:34, 26 January 2008 (UTC) 
+Image:Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002.jpg
+Image:Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002.jpg
+Image:St Pancras Decor Andh.JPG|A close-up of some of the intricate decoration used in St Pancras railway station
+Image:St Pancras Decor Andh edit 1.jpg|edit 1
+Image:St Pancras Decor Andh edit 2.JPG
+Image:United Kingdom satellite image.png
+Image:United Kingdom satellite image bright.png
+Image:CaseLogo.gif|Case Western's old logo which scales down poorly.
+Image::CaseLogo.svg|SVG
+Image:Us^cav35.gif|This offender
+Image:Flag of the United States.svg|For most of the image
+Image:US Cav 35.svg|SVG
+Image:Paris Sette-Takarazuka1930.jpg
+Image:Paris Sette-Takarazuka1930.png
+Image:2006-07-28 - United States - Wyoming - Cody - Rodeo - Lasso - Cowgirl.jpg
+Image:Roping a calf at the Buffalo Bill Cody Stampede Rodeo.jpg
+Isn't a jpg the most suitable format for a photo? Wont PNG be too large? I would have done it already, but you didn't specify a suitable name (and I still wonder why you can do these yourself). ----  ''' ''' 17:12, 29 January 2008 (UTC)
+Sagredo, thanks for understanding, I don't think I'm the most important guy, you guys are doing all the heavy lifting, I just keep you stocked. :) The image is great, cute name, much more concise ;), marking as done! Thanks!   ( ) 04:51, 30 January 2008 (UTC)
+Image:Missingself.jpg
+Image:Missingself.svg
+Wow, Adobe really did a number on that text.  Placing each letter individually, and badly.  Anyway, I fixed the text up, but I still want to do a bit of redrawing. --  ( ) 08:08, 20 December 2007 (UTC)
+I have now re-drawn the picture from scratch in inkscape.  I'm also not a real graphic artist, so it's not picture perfect, but let me know what you think --  ( ) 10:09, 20 December 2007 (UTC)
+OK, I made the arrows thicker, and added arrows pointing to the options, but I am slightly doubtful about that: Does the cell start out by presenting the foreign protein, and then have its MHC I downregulated, or does the pathogen downregulate the MHC I from the start, so that the antigen is never presented in the first place? --  ( ) 00:57, 24 December 2007 (UTC)
+OK, done. --  ( ) 08:59, 8 January 2008 (UTC)
+Image:NPLOneGates.svg
+Right, first of all the reason it wasn't showing up at all in wikipedia is that you left the image that you traced from in there, because MediaWiki couldn't find the image, it left an error so that's why altogether it wouldn't show. After you got rid of the image, the next reason it wouldn't show was because the fill of the graph, although was black, was transparent, so you saw right through it ( :-) ). I appreciate you are trying to help by creating SVG, my first SVG was a disaster, but now I am much better. 
+I can see you have created the image in excel and traced it in inkscape. However, tracing an image like this is very ineffecient, creating a high filesize which is not so useful. You can also tell it has been traced by lkie on the text, the borders of it are not straight. A better way to do it is
+Hope this helps!   >   <sup> </sup></span> <span style="font-size: 17pt;">   </span> 10:08, 5 January 2008 (UTC)
+Image:National_Emblem_Of_Nepal.png
+Image:National_Emblem_Of_Nepal.png
+The flag can ofcourse be taken from  , the country outline from   or (more detailed)  .   ( ) 07:43, 12 January 2008 (UTC)
+OK, I see everything but the object on the female arm.  I think it's beads, 4 or 5 rows.     07:43, 13 January 2008 (UTC)
+Image:BOK Center Construction Dec07 TulsaOK.jpg|Requestor's attempt
+Image:BOK Center Construction Dec07 TulsaOK - edit.jpg|AzaToth's attempt
+Also, any overall improvements to the quality of the photo through post-processing would be welcome.?      14:20, 14 January 2008 (UTC)
+I threw it into hugin, and made a try. ?   13:31, 27 January 2008 (UTC)
+Image:Jennifer Hudson.jpg
+Image:Jennifer Hudson.png
+Image:Luxembourgs distrikter.png|Districts of Luxembourg
+Image:Map - railways - LU.svg|A possible SVG
+Image:Communes of Luxembourg.png| How are these boundaries?
+Image:Luxemburg districts.svg|svg
+Here is this one, let me know if you would like a different projection, or different colours, or numbers, words etc.:   Also if you have any other maps you need in SVG and there is a shapefile available, don't hesitate to ask, because it only takes a minute.    ( ) 00:30, 29 January 2008 (UTC)
+Image:Signature of Robert Mugabe.jpg|Signature of Robert Mugabe Easy?
+Image:Signature of Robert Mugabe 2.svg |Traced from original without any cleanup
+Image:Signature of Robert Mugabe clear.svg
+Here are two possibilities.  The first is the Inkscape trace after cleaning up and smoothing (somewhat) the
+Image:Books3.jpg
+Image:Books3.png
+Image:Homestead riot harpers 3c26046v.jpg
+Image:Homestead riot harpers 3c26046v.png
+Image:Bleimor.gif
+Image:Bleimor2.gifImage:NonFreeImageRemoved.svg| SVGImage:NonFreeImageRemoved.svg| SVG

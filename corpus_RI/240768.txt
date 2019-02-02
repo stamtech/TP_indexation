@@ -1,0 +1,3 @@
+The translation technology for Babel Fish is provided by SYSTRAN, whose technology also powers a number of other sites and portals. It translates among English, Simplified Chinese, Traditional Chinese, Dutch, French, German, Greek, Italian, Japanese, Korean, Portuguese, Russian, Swedish, and Spanish. 
+Developed by AltaVista, the application is named after the fictional animal used for instantaneous language translation in Douglas Adams's series ''The Hitchhiker's Guide to the Galaxy.'' The fish name is a reference to the biblical account of the city of Babel and the various languages said to have arisen there.
+After a long existence at babelfish.altavista.com, the site was moved on May 9, 2008 to babelfish.yahoo.com.

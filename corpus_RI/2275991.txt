@@ -1,0 +1,5 @@
+The aim of '''I-recycle''' is to provide a central point for people offering items that they no longer require or need. The passing on of these items reduces the amount of usable goods going to landfill sites across the UK.
+It was created on April 11, 2006 as an alternative to the existing Freecycle Network.
+Several existing users expressed displeasure of the usage of the Yahoo!Groups framework and the amount of email received by subscribers. 
+As a result of these issues and others, the website  was created to replace the yahoo groups and to promote the use of advance functionaility like RSS and geo-mapping information.
+I-recycle is currently based in the UK. However the spread of I-recycle to Ireland and possibly other countries is both welcome and foreseeable.

@@ -1,0 +1,9 @@
+Metropolitan Bus Service Contract (MBSC) Region 14
+The Forest Coach Lines fleet mostly consists of Volvo and Mercedes-Benz buses.
+They have a green and white livery and are mostly manufactured by Custom Coaches and Volgren.
+Three buses are in special livery - two for route 197 (Macquarie University to Mona Vale) and one commemorating Forest Coach Lines' 80th Anniversary.
+Their Volvo fleet primarily consists of B10M and B12B buses and they used to have a sponsored lease from Volvo of their Low-Emissions Bus.
+Their Mercedes-Benz fleet primarily consists of O405 and O500 buses.
+They have sixteen articulated buses, two touring coaches, one Fuso minibus, a small Bustech MDi shuttle bus operating around the Killarney Heights area and 73 general buses.
+Forest Coach Lines participate in the MyZone ticketing system, though the buses do not have magnetic stripe readers and the drivers mark MyBus TravelTen tickets by hand.
+All buses are equipped with AES Prodata Datafare 2000 ticketing platforms which support a smartcard-based multi-ride ticketing system called ''Datafare''.  Service transfers are supported within the Forest Coach Lines network.

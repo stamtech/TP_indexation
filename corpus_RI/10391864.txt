@@ -1,0 +1,4 @@
+Yahoo! Labs is organized into five areas of focus:
+Employees include Prabhakar Raghavan, Andrei Broder, Preston McAfee, Ricardo Baeza-Yates, Ronald J. Brachman, and Raghu Ramakrishnan.
+Yahoo! Labs is headquartered in Sunnyvale, CA and Santa Clara, CA; it has five additional locations worldwide: Barcelona, Spain; Santiago, Chile; New York; Haifa, Israel; and Bangalore, India.
+Yahoo! Labs    Research group is divided into five teams:

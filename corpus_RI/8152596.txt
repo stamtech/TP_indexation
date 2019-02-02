@@ -1,0 +1,2 @@
+This template is used for referencing maps published by Yahoo! Inc. through their Yahoo! Maps service.
+This template accepts the following parameters:

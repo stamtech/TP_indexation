@@ -1,0 +1,2 @@
+Media RSS is used by content publishers to feed media files into Yahoo! Video Search, which is a feature of Yahoo! Search that allows to search for video files.
+The format can be used for podcasting, which uses the RSS format as a means of delivering content to media-playing devices. Media RSS allows for a much more detailed description of the content to be delivered to the subscriber than is covered by the RSS standard. 

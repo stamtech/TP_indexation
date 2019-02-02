@@ -1,0 +1,1 @@
+Yahoo! Web APIs are Yahoo!'s REST-based collection of web services. Yahoo! APIs incorporate a "REST-Like" RPC-style operations over HTTP GET or POST requests with parameters URL encoded into the request. 

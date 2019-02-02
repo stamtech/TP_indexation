@@ -1,0 +1,3 @@
+Map of the United States with one possible State of Jefferson highlighted in red stripes, for use in the State of Jefferson article. I based the borders of the striped area on the counties listed in this 1941 news article: http://www.jeffersonstate.com/firstmap.html  However, from the Wikipedia article, it seems like the "State" should probably extend further north and south. Oh well.
+The polygon representing Jefferson is drawn freehand; it really ought to be drawn according to geographical survey data, as I assume most of the maps on Wikipedia are. Feel free to update it with better or bigger borders.
+Note that this image is linked from  , and its exact filename ("Map of USA foo.svg") is significant.

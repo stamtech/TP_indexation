@@ -1,0 +1,13 @@
+The '''Siemens SX45''' is a PDA mobile phone released by Siemens AG in 2002.  It was one of the first Pocket PCs with cell phone functionality. Because of its size and the fact that phone calls could only be made using a headset, it was not really in the same marketing segment as current smartphones.
+It was replaced by the Siemens SX56.
+Main characteristics:  
+Software Environment: 
+Microprocessor : 
+Memory, Storage capacity:
+Display:
+Sound:
+Cellular Phone: 
+Control Peripherals: 
+Interfaces:
+Multimedia Telecommunication 
+Power Supply 

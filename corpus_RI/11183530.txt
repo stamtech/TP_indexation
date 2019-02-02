@@ -1,0 +1,49 @@
+Privative example: Flickr, Picasa web 
+Privative example: YouTube 
+Privative example: last, ulike
+Privative example: netflix, criticker
+Privative example: LibraryThing, Shelfari, Goodreads
+Privative example: emeraldinsight, springerlink
+Privative example: google maps
+Privative example: Dropbox, 4shared, UbuntuOne 
+Privative example: DropBox, drop.io, Ubuntu One 
+Privative example: Amazon S3, imageshack, box, Variety of models 
+Privative example: Google Docs
+Privative example: Amazon EC2 
+Privative example: Wikispaces 
+Privative example:  
+Privative example:  Twitter
+Privative example: Twitter
+Privative example: Google Analytics
+Privative example: Google AppEngine
+Privative example: Google page creator
+Privative example: Google Docs 
+Privative example: Gravatar
+Privative example: gmail, hotmail 
+Privative example: GMail, Yahoo mail, Microsoft Live mail 
+Privative example: Google Groups, Yahoo Groups
+Privative example: 
+Privative example: cf, 30boxes, Google calendars, ScheduleWorld 
+Privative example: 
+Privative example:  
+Privative example: Mibbit
+Privative example: Pollmonkey, Google Forms
+Privative example: Yahoo Pipes
+Privative example: Bloglines, Google Reader 
+Privative example: FriendFeed 
+Privative example: digg
+Privative example: Facebook 
+Privative example: Delicius 
+Privative example: TinyURL
+Privative example: 
+Privative example: 
+Privative example: 
+Privative example: opt-in grid hosting based on the principles of http://setiathome.berkeley.edu/
+Privative example: Google Translator
+Privative example: disqus, intense debate, haloscan, js-kit
+Privative example: iGoogle, netbives
+Privative example: Google SketchUp 3D Warehouse, Google O3D API
+Privative example: Wesabe
+Privative example: 
+Privative example: Ohloh
+Privative example: SecondLife, Lively

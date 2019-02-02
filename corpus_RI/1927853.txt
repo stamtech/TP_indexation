@@ -1,0 +1,6 @@
+The Aisin '''AF33''' is a 5-speed automatic transaxle.  It is designed to be used in transverse engine configurations and can handle up to 243&nbsp;ft  lbf (329&nbsp;N  m) of torque.  It is built in Anjo, Japan.
+The '''AF33''' designation is only used by GM, whereas the actual model codes are '''AW55-50SN'''(FWD) and '''AW55-51SN'''(AWD).  The AW55 designation is used by Volvo and other automakers.
+Gear ratios:
+Volvo owners manuals list the transmission as '''fill for life''', meaning that there are no scheduled transmission fluid changes under normal operating conditions.  This is controversial and believed by some to be a major contributing factor to increased valve body wear, eventually causing transmission problems that require valve body repair or replacement, and possible transmission overhaul or replacement.
+Transmission experts recommend regular fluid changes, at least every 50,000 miles.  Special fluid must be used.  If incorrect fluid is used it will result in improper operation and eventual transmission failure.
+Fluid must meet the JWS 3309 specification. Dealers carry this fluid under varying designations.

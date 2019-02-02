@@ -1,0 +1,8 @@
+Oddpost created an interface much like the traditional 3-pane view used by many desktop software applications (namely Microsoft Outlook, Apple's Mail, Microsoft Entourage, Mozilla Thunderbird, and others).
+Oddpost also had the design philosophy of making the interface invisible, where unread message headers were '''bolded''', so there was no need for an unread message icon next to each message; sub folders were indented under the parent, so there was no need for a little ant trail connecting each folder.
+This excerpt from an 2003 interview with Ethan Diamond, Oddpost's co-founder and then president, explained this minimalist approach:
+Google made extensive use of these ideas in Gmail, which was launched two years later.
+Oddpost was also known for its humorous blog entries about feature additions, bug fixes, and random musings about Oddpost.
+Some disadvantages of Oddpost were seen  to be that it required Windows and Internet Explorer, and that it lacked mail filters and support for secure email.
+Oddpost was purchased by Yahoo! on July 9, 2004 and became the new version of their Yahoo! Mail service. On September 14, 2005 Yahoo! Mail started letting some users register to beta test the new Yahoo! Mail web client.
+The original Oddpost servers have been shut down, however existing Oddpost customers were able to keep their Oddpost email addresses to be used with Yahoo!.

@@ -1,0 +1,11 @@
+The software was originally developed for the DivX installation, by CEO Darrius Thompson. When installing DivX, the user was prompted to optionally install the Yahoo! Toolbar. Divx received $15.7 million during the first nine months of 2008 from Yahoo and other software developers, after 250 million downloads.
+Chester Ng, the former DivX business development director, is chief business officer and Mark Chweh, former DivX engineering director, is chief technology officer.
+OpenCandy has attracted criticism because of privacy concerns.
+Windows users can disable the software by adding this entry to their hosts file to block the domain api.opencandy.com, effectively disabling the software from transmitting information back to its servers:
+127.0.0.1 opencandy.com
+127.0.0.1 api.opencandy.com
+127.0.0.1 media.opencandy.com
+127.0.0.1 www.opencandy.com
+127.0.0.1 *.opencandy.com
+127.0.0.1 host.opencandy.com
+127.0.0.1 tracking.opencandy.com

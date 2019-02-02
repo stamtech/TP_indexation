@@ -1,0 +1,58 @@
+More formally, quantum channels are completely positive, trace preserving maps between spaces of operators.  In other words, a quantum channel is just a quantum operation viewed not merely as the reduced dynamics of a system but as a pipeline intended to carry quantum information.
+We will assume for the moment that all state spaces of the systems considered, classical or quantum, are finite dimensional.
+Consider quantum channels that transmit only quantum information.  This is precisely a quantum operation, whose properties we now summarize.
+Let H_A and H_B be the state spaces (finite-dimensional Hilbert spaces) of the sending and receiving ends, respectively, of a channel. L(H_A) will denote the family of operators on H_A. In the Schrodinger picture, a purely quantum channel is a map    between density matrices acting on H_A and H_B with the following properties:
+The adjectives '''completely positive and trace preserving''' used to described a map are sometimes abbreviated '''CPTP'''.  We note here that, in the literature, sometimes the fourth property is weakened so that    is only required to be not trace-increasing. In this article, it will be assumed that all channels are CPTP.
+The spaces of operators ''L(HA)'' and ''L(HB)'' are Hilbert spaces with the Hilbert-Schmidt inner product. Therefore, viewing \Phi : L(H_A) \rightarrow L(H_B) as a map between Hilbert spaces, we obtain its adjoint   * given by
+While    takes states on ''A'' to those on ''B'',   * maps observables on system ''B'' to observables on ''A''. This relationship is same as that between the Schrodinger and Heisenberg descriptions of dynamics. The measurement statistics remain unchanged whether the observables are considered fixed while the states undergo operation or vice versa.
+It can be directly checked that if    is assumed to be trace preserving,   * is unital, that is,  *''(I) = I''. Physically speaking, this means that, in the Heisenberg picture, the trivial observable remains trivial after applying the channel.
+So far we have only defined quantum channel that transmits only quantum information. As stated in the introduction, the input and output of a channel can include classical information as well. To describe this, the formulation given so far needs to be generalized somewhat. A purely quantum channel, in the Heisenberg picture, is a linear map    between spaces of operators:
+C*-algebras. Therefore we can say a channel is a unital CP map between C*-algebras:
+Classical information can then be included in this formulation. The observables of a classical system can be
+Therefore, in the Heisenberg picture, if the classical information is part of, say, the input, we would define \mathcal{B} to include the relevant classical observables. An example of this would be a channel
+Notice L(H_B) \otimes C(X) is still a C*-algebra. A element ''a'' of a C*-algebra \mathcal{A} is called positive if ''a'' = ''x*x'' for some ''x''. Positivity of a map is defined accordingly.
+A state, viewed as a mapping from observables to their expectation values, is an immediate example of a channel.
+For a purely quantum system, the time evolution, up to certain time ''t'', is given by
+Consider a composite quantum system with state space H_A \otimes H_B. For a state
+The partial trace operation is a CPTP map, therefore a quantum channel in the Schrodinger picture. In the Heisenberg picture, the dual map of this channel is
+An observable associates a numerical value f_i \in \mathbb{C} to a quantum mechanical ''effect'' F_i. F_i's are assumed to be positive operators acting on appropriate state space and \sum F_i = I. (Such a collection is called a POVM.) In the Heisenberg picture, the corresponding ''observable map''    maps a classical observable
+In other words, one integrate ''f'' against the POVM to obtain the quantum mechanical observable. It can be easily checked that    is CP and unital.
+The corresponding Schrodinger map   * takes density matrices to classical states:
+The observable map, in the Schrodinger picture, has a purely classical output algebra and therefore only describe measurement statistics. To take the state change into account as well, we define what is called an ''instrument''. Let \{ F_1, \cdots, F_n \} be the effects (POVM) associated to an observable. In the Schrodinger picture, an instrument is a map    with pure quantum input \rho \in L(H) and with output space C(X) \otimes L(H):
+Let
+The dual map in the Heisenberg picture is
+We see that    is CP and unital.
+Notice that \Psi (f \otimes I) gives precisely the observable map. The map
+A separable channel is an example of local operation and classical communication (LOCC). Suppose two parties ''A'' and ''B'' wish to communicate in the following manner: ''A'' performs measurement on an observable and communicates the measurement outcome to ''B'' classically. According to the message he receives, ''B'' prepares his (quantum) system in a state that is previously agreed upon by both parties. In the Schrodinger picture, the first part of the channel   1 simply consists of ''A'' making a measurement, i.e. it is the observable map:
+If, in the event of the ''i''-th measurement outcome, ''B'' prepares his system in state ''Ri'', the second part of the channel   2 takes the above classical state to the density matrix
+The total operation is the composition
+Channels of this form are called ''separable'' or in Holevo form.
+In the Heisenberg picture, the dual map \Phi^* = \Phi_1^* \circ \Phi_2 ^* is defined by
+A separable channel can not be the identity map. This is precisely the statement of the no teleportation theorem, which says classical teleportation (not to be confused with entanglement-assisted teleportation) is impossible. In other words, a quantum state can not be measured reliably.
+In the channel-state duality, a channel is separable if and only if the corresponding state is separable. Several other characterizations of separable channels are known, notably that a channel is separable if and only if it is entanglement-breaking.
+Consider the case of a purely quantum channel    in the Heisenberg picture. With the assumption that everything is finite dimensional,    is a unital CP map between spaces of matrices
+By Choi's theorem on completely positive maps,    must take the form
+In quantum teleportation, a sender wishes to transmit an arbitrary quantum state of a particle to a possibly distant receiver. Consequently, the teleportation process is a quantum channel.  The apparatus for the process itself requires a quantum channel for the transmission of one particle of an entangled-state to the receiver.  Teleportation occurs by a joint measurement of the send particle and the remaining entangled particle.  This measurement results in classical information which must be sent to the receiver to complete the teleportation.  Importantly, the classical information can be sent after the quantum channel has ceased to exist.  The send particle is destroyed in the measurement and thus is not actually moved from one location to another to create the quantum channel.
+Experimentally, a simple implementation of a quantum channel is fiber optic (or free-space for that matter) transmission of single photons.  Single photons can be transmitted up to 100&nbsp;km in standard fiber optics before losses dominate.  The photon's time-of-arrival (''time-bin entanglement'') or polarization are used as a basis to encode quantum information for purposes such as quantum cryptography.  The channel is capable of transmitting not only basis states (e.g. |0>, |1>) but also superpositions of them (e.g. |0>+|1>).  The coherence of the state is maintained during transmission through the channel. Contrast this with the transmission of electrical pulses through wires (a classical channel), where only classical information (e.g. 0s and 1s) can be sent.
+Before giving the definition of channel capacity, the preliminary notion of the '''norm of complete boundedness''', or '''cb-norm''' of a channel needs to be discussed. When considering the capacity of a channel   , we need to compare it with an "ideal channel"   . For instance, when the input and output algebras are identical, we can choose    to be the identity map. Such a comparison requires a metric between channels.
+Since a channel can be viewed as a linear operator, it is tempting to use the natural operator norm. In other words, the closenss of    to the ideal channel    can be defined by
+However, the operator norm may increase when we tensor    with the identity map on some ancilla.
+To make the operator norm even a more undesirable candidate, the quantity
+We remind the reader that the mathematical model of a channel used here is same as the classical one.
+Let \Psi :\mathcal{B}_1 \rightarrow \mathcal{A}_1 be a channel in the Heisenberg picture and \Psi_{id} : \mathcal{B}_2 \rightarrow \mathcal{A}_2 be a chosen ideal channel. To make the comparison possible, one needs to encode and decode    via appropriate devices, i.e. we consider the composition
+To transmit words of length ''n'', the ideal channel is to be applied ''n'' times, so we consider the tensor power
+The \otimes operation describes ''n'' inputs undergoing the operation \Psi_{id} independently and is the quantum mechanical counterpart of concatenation. Similarly, ''m-invokations of the channel'' corresponds to {\hat \Psi} ^{\otimes m}.
+The quantity
+This leads to the following definition:
+A sequence \{ n_{\alpha} \} can be viewed as representing a message consisting of possibly infinite number of words. The limit supremum condition in the definition says that, in the limit, faithful transmission can be achieved by invoking the channel no more than ''r'' times the length of a word. One can also say that ''r'' is the number of letters per invokation of the channel that can be sent without error.
+The '''channel capacity of \Psi with respect to \Psi_{id}''', denoted by \;C(\Psi, \Psi_{id}) is the supremum of all achievable rates.
+From the definition, it is vacuously true that 0 is an achievable rate for any channel.
+As stated before, for a system with observable algebra \mathcal{B}, the ideal channel \Psi_{id} is by definition the identity map I_{\mathcal{B}}. Thus for a purely ''n'' dimensional quantum system, the ideal channel is the identity map on the space of ''n x n'' matrices \mathbb{C}^{n \times n}. As a slight abuse of notation, this ideal quantum channel will be also denoted by \mathbb{C}^{n \times n}. Similarly for a classical system with output algebra \mathbb{C}^m will have an ideal channel denoted by the same symbol. We can now state some fundamental channel capacities.
+The channel capacity of the classical ideal channel \mathbb{C}^m with respect to a quantum ideal channel \mathbb{C}^{n \times n} is
+This is equivalent to the no-teleportation theorem: it is impossible to transmit quantum information via a classical channel.
+Moreover, the following equalities hold:
+C(\mathbb{C}^m, \mathbb{C}^n) = C(\mathbb{C}^{m \times m}, \mathbb{C}^{n \times n}) 
+The above says, for instance, an ideal quantum channel is no more efficient at transmitting classical information than an ideal classical channel. When ''n'' = ''m'', the best one can achieve is ''one bit per qubit''.
+Using the same notation as the previous subsection, the '''classical capacity''' of a channel    is
+Similarly the '''quantum capacity''' of    is
+Another measure of how well a quantum channel preserves information is called '''channel fidelity''', and it arises from fidelity of quantum states.

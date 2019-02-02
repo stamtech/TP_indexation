@@ -1,0 +1,49 @@
+This is all it needs to be done (in my opinion). If you find out other issues please solve them. Thank you very much.    12:47, 3 July 2009 (UTC)
+Image:Graphic Lab Animated Banner.gif|In English
+Post them somewhere and link to them here (don't upload to WP if they're copyrighted). Also I'd like to point out that this image   unless ''you'' operated the SEM and captured that image then you can't claim copyright, you put a source that is clearly within range of applicable copyright laws. That image probably will be prodded for deletion as soon as it leaves your personal namespace or until someone else sees it. Also for your article be sure to include as many sources and references as you can, didn't see many when I browsed it.    &nbsp; &nbsp;( &nbsp;|&nbsp; ) 13:49, 18 July 2009 (UTC)
+Here is website reference with a relevant map:
+See http://www.gettyimages.com/detail/3323202/Hulton-Archive
+Changing compression won't make the image any better (not that we can based on WM fair use policies) and removing the record mark will be imperfect.  I recommend you use  instead or find your own low resolution version and upload and source it and put the other image up for deletion.   ( ) 06:08, 8 August 2009 (UTC)
+Is this OK?   ( ) 02:49, 2 August 2009 (UTC)
+Non-graphist opinion - I don't believe it is a parameter - the value "1" is incorporated into the image. I just created 
+Take a look @ . You need nearly identically named files, but that's the most elegant way. As far as I know there's no way to pass the number directly to the SVG rendered (Which is good, that would be a massive security hole).   ( ) 02:01, 29 June 2009 (UTC)
+I see that this request is stale, but there will be others like it in the future.  Can we satisfy them all at a single (if challenging) stroke?  Let's make a template which takes a text parameter for the road number and superimposes it on a background SVG of an unnumbered shield for this road type.  We can model this on  to allow syntax like
+This would require "Road shield India NH.svg" with the yellow shield and letters NH and a blank space for the number.  However, we only need one simple SVG per road '''type''' (maybe five SVGs per country), not one per individual highway.  ("Number" here is a shorthand for any road designator: "number=A601(M)" could give a valid British road sign.)   ( ) 13:51, 30 June 2009 (UTC)
+Also, there is a  used in carpets, using mainly the same symbols as the first. It shouldn't be too difficult for anyone competent (so that's me out!)... Could anyone help? Thanks!                    20:01, 15 July 2009 (UTC)
+Here is my go at the new version, do you want the simple version vectorised as well?--    13:00, 17 July 2009 (UTC)
+Are these photographs of actual signs best left as PNGs (or even JPGs)?  To me, the image of an actual sign "in the wild" seems more encyclopaedic than even the most talented wikigraphist's interpretation of it, however accurate and concise the artwork.   ( ) 22:33, 3 August 2009 (UTC)
+Very sorry, but I cannot do this at this time, because of computer problems.    15:17, 30 July 2009 (UTC)
+I would like to have pictures with at least 1200 DPI for the article Hathor in Wikipedia: http://en.wikipedia.org/wiki/File:Hathor.svg. This concerns both the first image of Hathor and the one at the bottom of the page (the cow).
+Thank you.
+I'm no SVG expert but line 5106 (MRM 1?) looks suspicious: it has both color:black and fill:url(something pink and clever).  Perhaps these two attributes are inconsistent, and some renderers give priority to color whilst others show the desired gradient?   ( ) 22:13, 29 July 2009 (UTC)
+Image:Seal of the United States Supreme Court.svg
+Image:Computers-kvm-switch-amoswolfe.png
+It looks like you want the hand bigger right? I don't see any obvious errors with the hand itself but rather how large it is. I'll take a stab at it, but this is my first time, so bear with me.  ( ) 13:44, 14 June 2009 (UTC)
+Image:Map of USA by state upperhouse.svg|First map
+Image:Map of USA by state lowerhouse.svg|Second map
+Image:US state legislatures.svg|Third map
+Thanx,   ( ) 14:24, 8 August 2009 (UTC)
+Nice!   ( ) 03:36, 10 August 2009 (UTC)
+Here's what I think they should be:
+Thank you --    11:04, 22 July 2009 (UTC)
+Image:AUX S W.png|Seal of the United States Coast Guard Auxiliary
+Image:AUX_M_W.png|United States Coast Guard Auxiliary "Stripe"
+Image:CGMark W.gif|United States Coast Guard "Stripe"
+Image:U.S. Coast Guard Auxiliary Seal.svg|Seal of the United States Coast Guard Auxiliary
+Image:U.S. Coast Guard Auxiliary Mark.svg|United States Coast Guard Auxiliary "Stripe"
+Image:U.S. Coast Guard Mark Racing Stripe.svg|United States Coast Guard "Stripe"
+Image:Extio set finance.jpg|RGU image to be replaced
+Image:Remote graphics unit.svg | vector diagram
+Does anyone know who drew the original?  If it's public domain, doesn't the author still have the source files? It seems like such a waste to re-draw a perfectly good drawing. --  ( ) 16:45, 10 August 2009 (UTC)
+I'm on it.   ( ) 07:41, 14 August 2009 (UTC)
+Image:Onomatopoeia.svg
+I agree that we need a new image but I've attempted to improve the old one as an interim measure.  My version looks terrible if you zoom in but perhaps it's acceptable at the scale used in the article.  Feel free to revert if you disagree.   ( ) 22:09, 17 August 2009 (UTC)
+Thank you very much for your help, as you know it is difficult to find free photos and you have done a great job cleaning this up! I owe you an e-cookie:  '''(::)'''  ''' '''  /  10:17, 18 August 2009 (UTC)
+Is this a bit less ugly?  Do you want the arrows or text restored on the nuclei, or were they unwanted decoration?   ( ) 14:45, 18 August 2009 (UTC)
+Second attempt - how's that?  The QGP is circular but I hope the blur makes it suitable amorphous.   ( ) 19:29, 18 August 2009 (UTC)
+Shrunk and pancaked to 3:1.   ( ) 00:04, 19 August 2009 (UTC)
+Image:Stop in Iran.jpg
+Image:Eixample02.jpg
+Image:Stop in Iran.svg
+Can someone do the middle image?   ( ) 19:36, 16 August 2009 (UTC)
+Would this simple silhouette be recognisable to someone with an interest in Korea, or do we need more colours and detail?   ( ) 18:45, 16 August 2009 (UTC)

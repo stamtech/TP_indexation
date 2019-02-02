@@ -1,0 +1,28 @@
+This page is intended to be a   for maps related to the '''maps task force'''. Any and all requests for critiquing, second opinions, or an assessment should be made here. Anyone can submit a request for review and anyone can comment on that request.
+For quickest processing time and the greatest ease, please follow the instructions below:
+Your cooperation in following the above instructions is greatly appreciated.
+All righty.  Background color: check.  Removed sheilds: check.  Removed coastal waters line: check.    11:45, 29 September 2006 (UTC)
+I put the map in the infobox at Interstate 10 in Texas to see how it looks on the page.  --  14:27, 29 September 2006 (UTC)
+These maps show the numbering systems used in Virginia from 1923 to 1928 and 1928 to 1933. I also plan to do a 1933-1940 one, as well as one showing the 1940 renumbering, and probably a current one. --  20:09, 27 September 2006 (UTC)
+Per request on MTF page, here is a map of CA SR 1.  If you're knowledgable about the highway, please indicate any errors here. '''Stratosphere''' (   ) 23:30, 27 September 2006 (UTC)
+I added the map to the article about (and by "about" I mean the primary subject of the article, not any related crap) '''CA SR 1''' since there were no apparent factual errors regarding the map data. '''Stratosphere''' (   ) 16:22, 29 September 2006 (UTC)
+A shieldless map of NY 317. The reason that I left shields off of this map was because of the large amount of roads depicted on this map. In red is NY 317. In light red is NY 31C, NY 317's predecessor. The New York State Thruway runs across the top in green. Comments welcome. --    -   04:14, 1 October 2006 (UTC)
+Map of NY SR 481 and 104B as requested on  .  I have no direct knowledge of roads in New York, so please point out factual errors. Cheers. '''Stratosphere''' (   ) 05:50, 1 October 2006 (UTC)
+For my first test of an SVG from ArcMap, I chose two useless routes - State Routes  and  (no articles yet; I'm thinking of writing one article for both). I hope to find a suitable file for water (the county lines are rivers), but otherwise this is ready.
+Has anyone managed to fix the problem with text not lining up properly? I had to shift the text down in ArcMap to place it properly on the SVG. --  07:02, 8 October 2006 (UTC)
+I made another one:  . Can someone please let me know if I'm doing anything wrong? --  23:17, 9 October 2006 (UTC)
+Per request, the map of the I-410 loop around San Antonio.    03:49, 10 October 2006 (UTC)
+Per request, the map of State Highway 151 on the west side of San Antonio.  Decided to offset the highway a bit so that the downtown "loop" was included in the picture for reference.   03:54, 10 October 2006 (UTC)
+OK, I have made some updates.  Gray streets are gone. All freeways are colored as such.  I will have to wait to experiment with SVGs.   21:14, 15 October 2006 (UTC)
+Does this do a good job of showing the bridge's location? --  15:13, 12 October 2006 (UTC)
+Anyone with a historical background, or perhaps, any information regarding M-114 as it was back in the 40s tell me if this is accurate.  From what information I gathered, this is as complete as the Grand Rapids beltline appeared, never finishing the north leg before US-16 and US 131 byp took over in the mid 40s. '''Stratosphere''' (   ) 02:56, 30 October 2006 (UTC)
+Image:Chickasaw-tpk2.png
+Image:Ok-39 path.png
+Image:Ok-127 path.png
+Image:Ok-152 path.png
+Image:Ok-325 path.png
+Various maps in Oklahoma.       16:07, 8 February 2007 (UTC)
+Is this a good zoom level? Note that going much further south would hit the South Carolina border. --  01:30, 16 September 2007 (UTC)
+I've been working on some highway pages for the Austin, Texas area, and wanted to get a checkpoint on some maps that I've started before I placed them in the articles. Thanks. 
+Does this need any improvement?           02:52, 13 June 2008 (UTC)
+After figuring out that my article needed maps for some good reference and that it was a B-grade on Wikipedia's article quality scale, I added maps to try to make the article appear better. Here are my maps that could use a review:

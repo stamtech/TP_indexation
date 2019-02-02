@@ -1,0 +1,5 @@
+Description: Map of the world indicating the United States of America and the member States of the United Nations. For use in United States and the United Nations and similar articles.
+Source: Own work based on Image:BlankMap-World-v5.png and Image:United Nations Members.png
+Date: 20th July 2007
+Author:  
+Permission: GNU FDL. See licence below.

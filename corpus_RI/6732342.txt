@@ -1,0 +1,3 @@
+The '''M45 Project''' (or '''M45''') is the name of a supercomputing cluster announced in November 2007 by Yahoo!.
+According to Yahoo!, it has approximately 4,000 processors, three terabytes of memory, 1.5 petabytes of disks, and a peak performance of more than 27 trillion calculations per second (27 teraflops), placing it among the top 50 fastest supercomputers in the world.Yahoo! Research News  dated November 12, 2007, retrieved on 2008-07-29
+M45 is named after the Messier catalog number of the constellation commonly known as the Pleiades.
