@@ -1,5 +1,0 @@
-Yahoo! Mash had the unusual feature of allowing a user to edit other users' pages, except in cases where the other users have switched the feature off.
-It is thought that the Yahoo! Mash social network was created after plans for a merger of Yahoo! and Facebook failed. 
-Yahoo! Mash pages were composed of modules that could be added by their users or their contacts.
-One module that could be added to a page (or a friend's page) was able to show photographs from Yahoo!'s photograph-sharing web site Flickr.
-As with other social networks, pages that were not in a user's control could contain a "Common Friends" module that showed any mutual friends. Users were also able to communicate using a private messaging system.

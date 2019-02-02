@@ -1,7 +1,0 @@
-MTR probes routers on the route path by limiting the number of hops individual packets may traverse, and listening to responses of their expiry. It will regularly repeat this process, usually once per second, and keep track of the response times of the hops along the path.
-The original MTR (known as ''Matt's traceroute'') program was written by ''Matt Kimball'' in 1997. ''Roger Wolff'' took over maintenance of MTR (renamed to ''My traceroute'') in October 1998.
-MTR is licensed under the terms of the GNU General Public License (GPL) and it works under modern Unix-like operating systems. It normally works under the text console, but it also has an optional GTK+-based graphical interface.
-MTR relies on ICMP Time Exceeded (type 11) packets coming back from routers, or ICMP Echo Reply packets when the packets have hit their destination host.
-The tool is often used for network troubleshooting. By showing a list of routers traversed, and the average round-trip time as well as packet loss to each router, it allows the user to identify links between two particular routers responsible for certain fractions of the overall latency or packet loss through the network. This can help identify network over utilization problems.
-This example shows MTR running on Linux tracing a route from the host machine (example.lan) to a web server at Yahoo! (p25.www.re2.yahoo.com) across the Level3 network.
-Hostname                            %Loss  Rcv  Snt  Last Best  Avg  Worst

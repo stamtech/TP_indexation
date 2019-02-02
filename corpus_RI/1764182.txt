@@ -1,6 +1,0 @@
-This software is also bundled with the Chinese client of the .
-3721 claims '''3721 Internet Assistant''' includes many useful features, such as IE setting repair, security shield, removal of internet history information and blocking ads. However, it installs various windows hooks that will slow down the system, and tries to install the hooks repeatedly. Some users also reported that Internet Assistant buttons reappeared immediately after their manual removal using Internet Explorer customization features, and Blue Screen of Death appeared when using Internet Assistant.
-A test using  shows '''3721 Internet Assistant''' can block roughly half of popup methods itself when the built-in popup blocker in Windows XP SP2 is turned off.
-A driver named CnsMinKP.sys is installed with '''3721 Internet Assistant''', along with several hidden Windows services.
-After uninstallation, several files are left on the system, but they are not visible in Windows Explorer. They can be found by using tools such as Total Commander or in the DOS box.
-Yahoo! Assistant also removes 360Safe, an antispyware program of a competitor, without notifying the user. On August 15, 2007, a Beijing court ruled this behavior as unfair competition.

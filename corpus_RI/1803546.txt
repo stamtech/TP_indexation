@@ -1,6 +1,0 @@
-It is most notable for WordPress.com (a free blogging service), as well as its contributions to WordPress (open source blogging software). Other projects include:
-Automattic's employees include Matthew Mullenweg and Ryan Boren, two of the primary developers of WordPress.
-On January 11, 2006, it was announced that Toni Schneider would be leaving Yahoo! to become CEO of Automattic. He was previously CEO of Oddpost before it was acquired by Yahoo!, where he had continued as a senior executive.
-In April 2006, it was discovered, through a Regulation D filing, that Automattic raised approximately 1.1 million dollars in funding, which . Investors were Polaris Ventures, True Ventures, Radar Partners, and CNET.
-On September 23, 2008, Automattic announces acquiring IntenseDebate. Two months later, on November 15, 2008, Automattic acquired PollDaddy.
-On September 9, 2010, Automattic gave the WordPress trademark and control over bbPress and BuddyPress to the WordPress Foundation. 

@@ -1,5 +1,0 @@
-The '''Q-ratio''' (also known as '''Q number''' or just '''Q''') is used in poker tournament strategy. It is also known as the "weak force." The Q-ratio describes the relation of the player's stack to the tournament players' average stack. A low Q-ratio     less than 1     indicates a below-average chip stack, implying disadvantage against opponents. It is an addition to the M-ratio ("strong force") and usually doesn't play a large role in tournament decision-making. However, its importance grows as the table average M-ratio drops. 
-Q-ratio on freezeouts is calculated using the following method.''Harrington On Hold 'em: Volume II; The Endgame'', p.127
-For example, in a tournament starting with 50 players who have 10,000 chips, of which 30 have been eliminated, and one player has 20,000 chips:
-This player's accumulation of chips has not kept pace with the elimination of players, and their chip stack is now below average.
-On rebuy and add-on tournaments, the calculation method is somewhat more complex and possible to calcutate in a reasonable amount of time only on specific online tournaments:

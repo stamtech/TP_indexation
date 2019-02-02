@@ -1,4 +1,0 @@
-In this example, a user has a cell phone with a calendar, as well as a calendar on the Internet.  Digital Integration would allow the user to synchronize the two, and the following features could result:
-A home owner or commercial building manager could utilize digital integration products to connect intelligent services within a built environment.
-There is a growing market for these products. Many of the control systems used for security, lighting, HVAC and Fire detection do not conform to any communications protocol standard, so often interface software is used to convert the different languages into a common standard for the building or wide area network.
-Some control systems are now being supplied with communications ports that conform to recognized standards such as BACnet, LonTalk or Ethernet many more provide interfaces to and from their own specialised control networks.

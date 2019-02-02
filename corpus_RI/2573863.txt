@@ -1,1 +1,0 @@
-The '''Yamanner worm''' is a computer worm written in javascript that targets a vulnerability in the Yahoo! Mail service. Released on June 12, 2006, the worm spread through the Yahoo! system, infecting the systems of those who opened the e-mails and sending the user's address book to a remote server.  

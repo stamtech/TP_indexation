@@ -1,5 +1,0 @@
-Allon, a computer scientist, was born in Israel but came to study at Melbourne's Monash University in 2002. After completing his Bachelor and Masters degrees, he moved to the University of New South Wales in Sydney, Australia to further his studies and research. His PhD was awarded from UNSW in April 2009.
-The algorithm is a problem-solving computational procedure similar to those used by search engines such as Google and Yahoo!.
-Google bought the exclusive rights to use the search algorithm in April 2006. The University earlier held talks with Google, Yahoo and MSN but finally Google managed to clinch the deal. Google also hired Allon.
-In 2009, Google announced that it incorporated the Orion Search technology and algorithm.
-In 2010 Allon left Google and became CEO of Julpan.

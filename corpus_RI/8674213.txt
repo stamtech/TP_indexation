@@ -1,4 +1,0 @@
-Like all the American OSO-series satellites, it had two major segments: one, the "Sail", was stabilized to face the Sun, and carried both solar panels and Sun-pointing experiments for solar physics.  The other, "Wheel" section, rotated to provide overall gyroscopic stability and also carried sky scanning instruments that swept the sky as the wheel turned, approximately every 2 sec.
-OSO-3 obtained extensive observations of solar flares, the cosmic diffuse X-ray background, and the observation of a single flare episode from Scorpius X-1, the first observation of an extrasolar X-ray source by an observatory satellite.
-Peterson et al 1966, ApJ 145, 962.  
-The MIT gamma-ray instrument obtained the first identification of high-energy cosmic gamma rays emanating from both galactic and extra-galactic sources.

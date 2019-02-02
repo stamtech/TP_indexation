@@ -1,3 +1,0 @@
-I made a program in C# that uses Windows APIs (ReadProcessMemory) to search for some bytes inside any process's memory. However, when my program is searching, the target process's memory usage grows to around 3 times its original. Any ideas why? --   /  02:26, 5 October 2008 (UTC)
-How can you create a Yahoo Answers account if you don't have or want a Yahoo e-mail address?   ( ) 04:16, 5 October 2008 (UTC)
-Say I have an image all in red tones. Is there an easy way to transform all tones of red into another colour, say green? Digitally, of course, and preferably not too difficult. --  ( ) 13:55, 5 October 2008 (UTC)

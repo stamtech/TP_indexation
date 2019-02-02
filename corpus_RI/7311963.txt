@@ -1,4 +1,0 @@
-The '''Silicon Valley Homebrew Mobile Computer Club''' is a club that furthers open phone development.
-The club was founded in May 2006 and held its inaugural meeting at Google's Mountain View Campus. Matt Hamrick, the club's founder, indicated the club's objectives as "building a better cell phone." The club aims to achieve their objective by creating a "complete open phone", a combination of open source software and hardware designs intended to give advanced end users the tools to build their own mobile phone. It is considered notable for its similarities to the Homebrew Computer Club, an organization which counted Steve Wozniak and Steve Jobs as members and was widely considered influential in the development of early personal computers.
-The club is a continuation of the "open phone movement," identified by TuxPhone project manager Surj Patel.
-Early prototypes were demonstrated at a club meeting and on DL.TV, while current projects are described on the .

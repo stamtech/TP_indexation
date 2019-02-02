@@ -1,1 +1,0 @@
-The '''Motorola TXTR''' is a Bluetooth wireless keyboard designed to connect to Bluetooth enabled cell phones, such as the RAZR.  This peripheral is designed for the purpose of Text Messaging on a QWERTY keyboard instead of a cell-phone style number pad.

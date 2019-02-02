@@ -1,3 +1,0 @@
-YPOPs! acts as a  gateway. It provides a POP3 server interface at one end to communicate with email clients, and an HTTP client (browser) interface at the other which communicates with Yahoo! It does not go against the license agreements of Yahoo! Mail. Email clients that support POP3 and SMTP are supported.
-Yahoo! Mail disabled free access to its (US) POP3 service on April 24, 2002 (however paying subscribers to premium Yahoo! Mail services could continue to access POP3).
-YPOPs! was inspired by a Perl script called FetchYahoo! written by Ravi Ramkissoon. It has built a large installed base and an active community of people that support users via a discussion forum on its official website.

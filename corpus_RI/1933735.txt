@@ -1,2 +1,0 @@
-The second satellite in the Proba-series, Proba-2 has been launched on November 2, 2009, together with the SMOS mission. Proba 2 is a 0.6    0.6    0.8 meter, box-shaped structure weighing 130&nbsp;kg with two deployable solar panels. It has a total of four instruments; two complementary solar observation instruments dubbed SWAP and LYRA, and two plasma measurement instruments dubbed TPMU and DSLP.
-Further planned satellites in the Proba series are the formation flight Proba-3 and Proba-V (Proba Vegetation). They are on-going developments without defined launch dates.

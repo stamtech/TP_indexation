@@ -1,6 +1,0 @@
-Blackwell is a developer of humanoid robots. He is also the inventor of the Eunicycle, essentially a one-wheeled Segway. Dr. Blackwell is the founder and CEO of Anybots and a partner at Y Combinator.
-Blackwell grew up in Saskatoon, Canada. Blackwell studied engineering at Carleton University and received a BEng in 1992, then studied Computer Science at Harvard University and received a PhD in 1998. His dissertation applied randomized methods to analyzing the performance of networks and compilers.
-During graduate school Blackwell joined Viaweb for which he wrote the image rendering, order processing and statistics software. The company was acquired by Yahoo in 1998, and Blackwell moved to Silicon Valley to lead the Yahoo Store development group.
-He founded Anybots in 2001 to build teleoperated humanoid robots. In 2006 Anybots announced a humanoid robot that walks and balances like people do, without depending on large feet for stability.
-As side projects, he has built two other balancing vehicles: a two-wheeled balancing scooter similar to the Segway but with different steering, and the self-balancing Eunicycle. Several hobbyists have built vehicles based on the open design of the machine.
-He was a co-founder of Y Combinator in 2005.

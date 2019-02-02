@@ -1,6 +1,0 @@
-The main  site offers street maps and driving directions for the United States and Canada.  It has the following notable features:
-Developers can embed Yahoo! Maps into their own web pages (to create a mashup) through the .  Many exciting new web sites have come about recently by displaying content from other sources on top of maps provided by the various mapping portals (the Google Maps API getting the most publicity).  The Yahoo! Maps APIs come in three basic flavors:
-Yahoo! offers a number of low-level APIs to support maps, for geocoding, getting a map image, searching for a local business, or retrieving traffic information.  Some other Yahoo! services, such as
-Flickr and Upcoming.org, have their content available through web services, with interesting potential for mashups.
-The street network and other vector data Yahoo! maps uses is from Navteq, Tele Atlas, and public domain sources.  Detailed street network data is currently available for the United States, Canada, Puerto Rico, the Virgin Islands, and most European countries.  Country borders, cities, and water bodies are mapped for the rest of the world.
-Moderate resolution satellite imagery is available worldwide.  1-2 meter resolution is available for most of the contiguous United States, and select cities worldwide.

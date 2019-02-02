@@ -1,3 +1,0 @@
-The '''MT6235''' is a processor used in many Chinese cellular phones. It is a member of the MT62xx series of processors by MediaTek.
-The MediaTek processor based Chinese cell phones often come with features not common to North American phones, such as analog television viewing and recording. While these phones have vastly different builds and configurations, they all run on a common proprietary operating system based on the Nucleus RTOS.
-The MT6235 is a specialized processor design containing both an ARM926EJ-S RISC CPU running at frequencies between 26/52/104 and 208 MHz and a DSP.

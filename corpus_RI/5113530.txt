@@ -1,8 +1,0 @@
-The PoSAT-1 weighs about 50&nbsp;kg and belongs to the class of micro-satellites, which are between 10 and 100&nbsp;kg. The entire project was developed by a consortium of universities and companies in Portugal and was built at the University of Surrey, UK. The total cost was around    5 Million, about    3 Million paid by the Portuguese Government and    2 Million by the Portuguese companies involved (Po-SAT consortium: INETI, EFACEC, ALCATEL, MARCONI, OGMA, IST, UBI e CEDINTEC). The responsible for the project was Fernando Carvalho Rodrigues, known as the father of the first Portuguese satellite.
-The mission was called ''Flight 59'', which launched several satellites: ''PoSAT-1'' from Portugal, ''EyeSat'' and ''ItamSat'' from Italy, ''KitSat-B'' from South Korea, ''HealthSat'' (an international medical satellite) and ''Stella'' and ''SPOT-3'' from France, the latter one a super satellite for photography recognition.
-The PoSAT-1 is a box of aluminum, in the form of a parallelepiped, 58 centimeters long, 35 centimeters wide, 35 centimeters depth and weighs 50 kilograms.
-Over a first drawer that contains the batteries and the remote detection module are stacked 10 other drawers full of electronic cards.
-At the top of the satellite there are sensors for attitude and the stabilization mast, essential tools for PoSAT-1 to maintain correct orbit.
-Four solar panels are mounted on the lateral sides of the structure of the satellite, forming a parallelepiped, which are the source of energy for all on-board systems. Each panel contains 1,344 cells of GaAs.
-The physical death of the PoSAT-1 is expected to be 2043.
-PoSAT-1 stopped transmitting information to Earth in 2006.

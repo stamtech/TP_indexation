@@ -1,3 +1,0 @@
-Phone numbers in Bolivia have 8 digits. The first one is the area code, the remaining seven digits are the subscriber number. Area codes "6" and "7" are reserved for cell phones with "6" being a recent change to the system as a result of the increasing number of cell phones.
-To make local calls inside Bolivia, the 7-digit subscriber number is used. To make inter-provincial calls, you must use an access prefix ("0"), followed by the 8-digit phone number. 
-The international call prefix is 00XX, where "XX" is used to select the long-distance company that will carry out the call. 

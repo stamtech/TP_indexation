@@ -1,5 +1,0 @@
-Cells are individual cylindrical or rectangular energy storage devices inside a battery.
-Commodity cells are the kind of cells used in laptops and cell phones, as the energy storage element in its batteries. Cells that can be used by electronics manufacturers like Dell Computer just as they can be used by car companies.
-The auto industry battery consortium, USABC, set about to invent automotive batteries made from specialty cells for cars.
-Tesla Motors uses commodity cells to make their automotive batteries. This is why Tesla   s battery is cheaper, higher capacity, more reliable, and more available than anything produced by USABC. It went into production for a fraction of the money previously spent by the consortium.
-Practically all commodity cells today are made in Asia     mainly Japan, South Korea, and China. There is no significant production anywhere in the US. Even American battery companies     such as A123, Valence Technology and AltairNano     turn to Asia for mass production. A modern lithium ion cell plant     such as those in Japan     is a highly automated affair with very low labor content.

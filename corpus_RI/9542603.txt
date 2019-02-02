@@ -1,9 +1,0 @@
-The '''Nokia C3-00''' is an entry-level feature phone with an Nokia S40 mobile operating system released under the C-series line of phones by Nokia. It features a full qwerty keyboard, like the earlier Nokia 6800 series models but without folding. It is being advertised as an entry-level messaging phone.
-The Nokia C3 is installed with Ovi Mail and Ovi Chat where users can set up email and chat accounts straight from the device. The C3-00 also has a 2 megapixel camera, built-in Wi-fi, 2.4&nbsp;inch screen, and support for 8GB of storage on a MicroSD card.
-Automatic switching between GSM bands
-Flight mode
-Standby time (maximum):     GSM 800&nbsp;h,
-Video playback time (maximum): 4&nbsp;h,
-Video recording time (maximum): 1&nbsp;h,
-Music playback time (maximum): 30&nbsp;h,
-WLAN - The wireless connection on the C3-00 is known to have many bugs and it doesn't work with all wi-fi routers out there. An interesting solution guide to this problem has been released by one of the phone owners on the  site listing many ways to help solve all wireless problems, one of them tells the user to keep pinging the cell phone to maintain the connection between the phone and the router always alive.

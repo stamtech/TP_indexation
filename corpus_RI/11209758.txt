@@ -1,2 +1,0 @@
-It is used to compute solar radiation on earth at one location/time and taking into account atmospheric conditions.
-It can be used for example to evaluate solar panel production.

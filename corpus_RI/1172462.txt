@@ -1,1 +1,0 @@
-The '''Pixo Mobile Download Server''' was a server software package designed to manage cell phone clients' downloads of ring tones and applications from a cell phone carrier service. It recorded billing and customer data. This technology was created by Pixo and acquired by Sun Micro systems.

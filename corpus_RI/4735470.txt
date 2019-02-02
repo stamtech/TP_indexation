@@ -1,4 +1,0 @@
-A screen shot of four Yahoo! Widget Engine Dock icons.
-The Widget did not specify an image, and its screen-shot from the gallery was used.
-The second Widget also did not specify an image, but it did not match any know gallery Widget, so a default was provided by the engine.
-Though this image is subject to copyright, its use is covered by the U.S. fair use laws because:

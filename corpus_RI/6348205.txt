@@ -1,4 +1,0 @@
-The '''Gossamer Penguin''' was a solar-power experimental aircraft created by Paul MacCready's AeroVironment..
-The Penguin was a three-quarters scale version of the Gossamer Albatross II, and had a  wingspan and a weight, without pilot, of . The powerplant was an AstroFlight Astro-40 electric motor, driven by a 541 watt solar panel consisting of 3920 solar cells.
-Initial test flights were performed using a 28 cell NiCad battery pack instead of a panel. The test pilot for these flights was MacCready's 13 year old son Marshall, who weighed .
-The official pilot for the project was Janice Brown, a charter pilot with commercial, instrument, and glider ratings who weighed slightly less than . She flew the Penguin approximately 40 times before a  public demonstration at NASA's Dryden Flight Research Center on August 7, 1980.

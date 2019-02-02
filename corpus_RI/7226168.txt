@@ -1,7 +1,0 @@
-In human genetics, '''Haplogroup IJK''' is a human Y-chromosome DNA haplogroup.
-Haplogroup IJK is a descendant branch of the macrohaplogroup F with haplogroup IJ and haplogroup K as its attested descendants.
-According to Family Tree DNA, the two SNPs defining this haplogroup unite I, J, and K within F as a "brother clade" to G and H. FTDNA further states that haplogroup IJK's relationship with haplogroup F1 through F4 is unknown.
-This phylogenetic tree of haplogroup  subclades is based on the YCC 2008 tree and subsequent published research.
-Some of the main branches within the group are shown below:-
-The defining SNP ''L15'' is located at Y chromosomal location rs9786139 with the ancestral value being '''A''' and the derived value being '''G'''.
-The defining SNP ''L16'' is at location rs9786714 with the ancestral value being '''G''' and the derived value being '''A'''.

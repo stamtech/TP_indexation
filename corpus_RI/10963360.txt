@@ -1,2 +1,0 @@
-Google has integrated its own chat archiving feature into Gmail, which lists Google Talk and Gmail Chat conversations alongside email conversations.
-Yahoo first experimented with online archiving of Yahoo Messenger chat logs through its Yahoo! Messenger for the Web application, which separately saves its own chat archive when users communicate through that client. In 2010, the beta of the 11th version of the standalone Messenger client featured online archiving of chat logs, although the archive is only available and viewable from within the logged-in client. 

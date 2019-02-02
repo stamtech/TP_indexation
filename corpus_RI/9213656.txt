@@ -1,3 +1,0 @@
-In some systems, the user is assigned a virtual phone number. When that number is dialed the system routes the call through a user-defined list of numbers. The numbers may be called simultaneously or sequentially, either in a preferred order or in accordance with the user's scheduled activities and locations. If no connection is made once all numbers on the list have been called, the system may route the call to voice mail.
-A caller dials your virtual phone number. Simultaneously, your cell phone, home phone, and office phone all ring at the same time.
-A caller dials your virtual phone number. Your home phone rings first, your cell next, then your home office phone. If there is no answer at any phone, the caller can leave a voice mail message.

@@ -1,3 +1,0 @@
-The '''Twente One''' is the second solar car developed by the University of Twente and Saxion University (at Enschede, Deventer and Apeldoorn)  in 2007, and succeeds the SolUTra. It was designed to participate in the 2007 World Solar Challenge.
-Its main innovations were a pivoting solar screen that follows the angle of the sun, and a system of fresnel lenses that focus the sunlight onto a solar panel with a system to adjust the panel so that the maximum amount of light from the lenses shines on the individual solar cells.  
-The Twente One came in on the fifth place in the 2007 World solar Challenge.

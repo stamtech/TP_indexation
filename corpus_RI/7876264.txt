@@ -1,7 +1,0 @@
-Yahoo! SearchMonkey was selected as one of the top 10 Semantic Web Products of 2008.
-Currently, there are many default "apps" turned on. Some are site-specific. Others are object-based.
-Apps are made through the . Two types of apps are possible, ones that overwrite the result (Result Apps) and ones the display below a result (Infobars). App creation is split into two parts, data and presentation.
-The data for an app may be either cached or run-time. Run-time data is limited to infobars, as an external fetch will take too long for the search page to render. Pages can be Scraped using XSLT or web services may be called. Any webservice may be queried using a URL Template combined with any cached data. Webservices may be chained to query multiple sources and aggregated them onto the search page. Cached data may come from a variety of sources using standard markup and vocabularies.
-Any data placed on a webpage in these formats will be picked up by Yahoo!'s crawlers and made available to app writers. This data is also available through Yahoo! BOSS ( or ).
-You can use the  app to see all the structured data right in your search results.
-The data is transformed into the display template using PHP hosted on Yahoo! servers. It is a simplified stripped down version of the language.

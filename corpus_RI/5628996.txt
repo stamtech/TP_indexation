@@ -1,6 +1,0 @@
-Reporting statistics of link health.groups.yahoo.com; 26 records.
-Reports
-COIToolBot reported 26 links.
-Below a full report on all use of the link health.groups.yahoo.com.
-This list is intended to see how the   gets used, it does '''not''' imply that involved accounts are having a   in adding the link, or that the involved accounts are   the link.
-LinkWatcher records:
