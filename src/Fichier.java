@@ -10,19 +10,20 @@ public class Fichier {
  
 	
 	
-static void fileReader (String nameFile) {
+static void fileReader (File [] dir) {
 		
-		HashMap <String,Integer> words=new HashMap<String, Integer>();		
+		HashMap <String, HashMap<String,Integer>> words=new HashMap <String, HashMap<String,Integer>>();		
 	 
 		try {
-			
-		File file=new File(nameFile);
+	for (File f : dir) {		
+		
+		File file=new File("../../corpus_RI/"+f.getName());
 		FileReader fr=new FileReader(file);
 		BufferedReader br =new BufferedReader(fr);
 		
 		String line=br.readLine();
 		
-		System.out.println(line);
+		
 		while (line!=null) {
 			
 			String [] splittedLine=line.split(" ");			
@@ -30,12 +31,20 @@ static void fileReader (String nameFile) {
 			for (String wordInLine : splittedLine) {
 				
 				if (words.get(wordInLine)!=null) {
-				
-					words.put(wordInLine, (Integer)words.get(wordInLine)+1);
+				    
+					HashMap <String,Integer> info=words.get(wordInLine);
+					if (info.get(f.getName())!=null) {
+						info.put(f.getName(), info.get(f.getName())+1);
+					}
+					else {
+						info.put(f.getName(), 1);
+					}
+					words.put(wordInLine, info);
 				}
 				else {
-					
-					words.put(wordInLine, 1);
+					HashMap <String,Integer> info=new HashMap();
+					info.put(f.getName(),1);
+					words.put(wordInLine, info);
 				}
 			}
 			line=br.readLine();
@@ -43,11 +52,14 @@ static void fileReader (String nameFile) {
 		
 		Set <String> keys =words.keySet();
 		 for (String s : keys ) {
-			 System.out.println("Le mot "+s+" possède "+words.get(s)+" occurences");
 			 
+			 Set <String> keysInfo=words.get(s).keySet();
+			 for (String k:keysInfo) {
+			 System.out.println("Le mot "+s+" possède dans le fichier "+k+ " "+ words.get(s).get(k)+" occurences");
+			 }
 		 }
 		
-		
+	}
 		
 		}
 		catch (Exception e) {
@@ -55,6 +67,7 @@ static void fileReader (String nameFile) {
 			System.out.println(e.getMessage());
 			
 		}
-
+	//	return words;
 }
+
 }
